@@ -1,0 +1,45 @@
+# Her gün 06:00 (TR) — haberleri tarar, önerileri uygular ve insan onayı için PR açar.
+# Script asla doğrudan main'e yazmaz; merge kararı her zaman insanda.
+name: Günlük tarama
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # 03:00 UTC = 06:00 TR
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Haberleri tara ve önerileri uygula
+        run: npm run scan
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Veriyi doğrula (bozuk veri PR'a giremez)
+        run: npm run validate
+
+      - name: PR aç
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: gunluk-tarama/${{ github.run_id }}
+          title: "Günlük tarama: ${{ github.run_started_at }}"
+          body-path: drafts/pr-body.md
+          commit-message: "Günlük tarama güncellemeleri"
+          add-paths: |
+            data/**
+            drafts/**
+          delete-branch: true

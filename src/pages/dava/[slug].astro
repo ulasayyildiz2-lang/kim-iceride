@@ -1,0 +1,30 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import PersonCard from "../../components/PersonCard.astro";
+import { cases, peopleInCase } from "../../lib/data";
+
+export function getStaticPaths() {
+  return cases.map((c) => ({ params: { slug: c.id }, props: { case: c } }));
+}
+
+const { case: caseData } = Astro.props;
+const members = peopleInCase(caseData.id);
+---
+
+<Layout title={caseData.name} description={caseData.description}>
+  <nav class="text-sm text-stone-500">
+    <a href="/davalar/" class="hover:underline">Davalar</a>
+    <span class="mx-1">/</span>
+    <span class="text-stone-700">{caseData.name}</span>
+  </nav>
+
+  <h1 class="mt-4 text-2xl font-bold tracking-tight">{caseData.name}</h1>
+  <p class="mt-2 max-w-3xl text-stone-600">{caseData.description}</p>
+  <p class="mt-1 text-sm text-stone-400">
+    Bu kapsamda takip edilen {members.length} kişi
+  </p>
+
+  <div class="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+    {members.map((person) => <PersonCard person={person} />)}
+  </div>
+</Layout>

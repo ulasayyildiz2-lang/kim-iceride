@@ -1,0 +1,68 @@
+---
+import "../styles/global.css";
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const { title, description } = Astro.props;
+const siteName = "Kim İçeride?";
+const fullTitle = title ? `${title} — ${siteName}` : siteName;
+const metaDescription =
+  description ??
+  "Türkiye'de gözaltı, tutuklama ve dava süreçlerini kaynaklı ve güncel olarak takip edin.";
+---
+
+<html lang="tr">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <meta name="description" content={metaDescription} />
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title={siteName}
+      href="/rss.xml"
+    />
+    <title>{fullTitle}</title>
+  </head>
+  <body class="min-h-screen bg-stone-50 text-stone-900 antialiased">
+    <header class="sticky top-0 z-20 border-b border-stone-200 bg-white/90 backdrop-blur">
+      <div class="mx-auto flex max-w-6xl items-center justify-between gap-4 px-4 py-3">
+        <a href="/" class="flex items-baseline gap-2">
+          <span class="text-xl font-bold tracking-tight">Kim İçeride<span class="text-red-600">?</span></span>
+        </a>
+        <nav class="flex items-center gap-1 text-sm font-medium text-stone-600">
+          <a href="/" class="rounded-md px-3 py-1.5 hover:bg-stone-100 hover:text-stone-900">Kişiler</a>
+          <a href="/davalar/" class="rounded-md px-3 py-1.5 hover:bg-stone-100 hover:text-stone-900">Davalar</a>
+          <a href="/istatistik/" class="rounded-md px-3 py-1.5 hover:bg-stone-100 hover:text-stone-900">İstatistik</a>
+          <a href="/hakkinda/" class="rounded-md px-3 py-1.5 hover:bg-stone-100 hover:text-stone-900">Hakkında</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="mx-auto max-w-6xl px-4 py-8">
+      <slot />
+    </main>
+
+    <footer class="mt-12 border-t border-stone-200 bg-white">
+      <div class="mx-auto max-w-6xl space-y-3 px-4 py-8 text-sm text-stone-500">
+        <p class="font-medium text-stone-600">
+          Masumiyet karinesi: Bu sitede yer alan kişiler, kesinleşmiş bir mahkeme
+          kararı olmadıkça suçlu kabul edilemez. Kayıtlar yalnızca kamuya açık
+          haber kaynaklarında yer alan adli süreç bilgilerini aktarır; suçlama
+          veya değerlendirme içermez.
+        </p>
+        <p>
+          Her olay kaynak linkiyle belgelenmiştir. Hatalı veya eksik bilgi için
+          düzeltme talebi iletebilirsiniz. Veriler açık formatta sunulur:
+          <a href="/api/people.json" class="underline hover:text-stone-700">JSON</a> ·
+          <a href="/rss.xml" class="underline hover:text-stone-700">RSS</a>
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>

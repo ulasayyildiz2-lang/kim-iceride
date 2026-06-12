@@ -1,0 +1,45 @@
+{
+  "id": "murat-ozkaya",
+  "name": "Murat Özkaya",
+  "category": "spor",
+  "currentStatus": "adli-kontrol",
+  "case": "futbol-bahis-sorusturmasi",
+  "summary": "Eyüpspor Kulübü Başkanı iş insanı Murat Özkaya, futbolda bahis soruşturması kapsamında 'müsabaka sonucunu etkileme' iddiasıyla 10 Kasım 2025'te tutuklandı; yaklaşık 6 ay tutukluluğun ardından 6 Mayıs 2026'da ev hapsi şartıyla tahliye edildi.",
+  "events": [
+    {
+      "date": "2025-11-07",
+      "type": "gozalti",
+      "description": "İstanbul Cumhuriyet Başsavcılığının futbolda bahis soruşturması kapsamında gözaltına alındı.",
+      "sources": [
+        { "url": "https://www.hurriyet.com.tr/sporarena/galeri-eyupspor-baskani-murat-ozkaya-kimdir-kac-yasinda-nereli-ne-is-yapiyor-murat-ozkaya-bahis-operasyonu-kapsaminda-gozaltina-alindi-43010816", "outlet": "Hürriyet", "date": "2025-11-07" }
+      ]
+    },
+    {
+      "date": "2025-11-10",
+      "type": "tutuklama",
+      "description": "'Müsabaka sonucunu etkileme' iddiasıyla, aralarında hakemlerin de bulunduğu 8 şüpheliyle birlikte tutuklandı.",
+      "sources": [
+        { "url": "https://www.haberturk.com/son-dakika-eyupspor-baskani-murat-ozkaya-tahliye-edildi-3882714", "outlet": "Habertürk", "date": "2026-05-06" },
+        { "url": "https://www.cumhuriyet.com.tr/spor/bahis-sorusturmasi-kapsaminda-tutuklanmisti-eyupspor-baskani-murat-ozkaya-hakkinda-karar-verildi-2501550", "outlet": "Cumhuriyet", "date": "2026-05-06" }
+      ]
+    },
+    {
+      "date": "2026-01-16",
+      "type": "diger",
+      "description": "Soruşturma kapsamında sahibi ve ortağı olduğu 8 şirket ile Eyüpspor Kulübüne TMSF'nin kayyum olarak atanmasına karar verildi.",
+      "sources": [
+        { "url": "https://www.aa.com.tr/tr/gundem/murat-ozkayanin-sahibi-oldugu-8-sirket-ile-eyupspora-kayyum-atandi/3801680", "outlet": "Anadolu Ajansı", "date": "2026-01-16" }
+      ]
+    },
+    {
+      "date": "2026-05-06",
+      "type": "adli-kontrol",
+      "description": "Ev hapsi ve yurt dışına çıkış yasağı şeklinde adli kontrol tedbirleri uygulanarak tahliye edildi.",
+      "sources": [
+        { "url": "https://www.haberturk.com/son-dakika-eyupspor-baskani-murat-ozkaya-tahliye-edildi-3882714", "outlet": "Habertürk", "date": "2026-05-06" },
+        { "url": "https://www.milliyet.com.tr/gundem/son-dakika-eyupspor-eski-baskani-murat-ozkaya-adli-kontrol-sartiyla-tahliye-edildi-7583309", "outlet": "Milliyet", "date": "2026-05-06" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

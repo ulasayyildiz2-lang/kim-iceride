@@ -1,0 +1,37 @@
+{
+  "id": "metehan-baltaci",
+  "name": "Metehan Baltacı",
+  "category": "spor",
+  "currentStatus": "tutuksuz-yargilaniyor",
+  "case": "futbol-bahis-sorusturmasi",
+  "summary": "Galatasaray futbolcusu Metehan Baltacı, futbolda bahis ve şike soruşturması kapsamında 8 Aralık 2025'te tutuklandı; 25 Mart 2026'daki ilk duruşmada tahliye edildi ve yargılanması tutuksuz sürüyor, duruşma 12 Haziran 2026'ya ertelendi.",
+  "events": [
+    {
+      "date": "2025-12-08",
+      "type": "tutuklama",
+      "description": "Futbolda bahis ve şike soruşturması kapsamında, aralarında başka futbolcuların da bulunduğu şüphelilerle birlikte 'şike ve teşvik primi' ile 'nitelikli dolandırıcılığa teşebbüs' iddialarıyla tutuklandı.",
+      "sources": [
+        { "url": "https://medyascope.tv/2025/12/08/metehan-baltaci-ve-mert-hakan-yandas-tutuklandi/", "outlet": "Medyascope", "date": "2025-12-08" },
+        { "url": "https://www.aa.com.tr/tr/futbol/futbolda-bahis-sorusturmasinda-metehan-baltaci-ve-mert-hakan-yandas-in-da-aralarinda-oldugu-20-kisi-tutuklandi/3765726", "outlet": "Anadolu Ajansı", "date": "2025-12-08" }
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "type": "iddianame",
+      "description": "Hakkında 'şike ve teşvik primi' ile 'bilişim sistemlerinin araç olarak kullanılması suretiyle dolandırıcılığa teşebbüs' suçlarından 4 yıldan 13 yıla kadar hapis istemiyle hazırlanan iddianamenin kabul edildiği ve ilk duruşmanın 25 Mart 2026 olarak belirlendiği bildirildi.",
+      "sources": [
+        { "url": "https://www.ntv.com.tr/turkiye/unlu-futbolcu-metehan-baltaci-hakkindaki-iddianame-kabul-edildi-1714428", "outlet": "NTV", "date": "2026-03-04" }
+      ]
+    },
+    {
+      "date": "2026-03-25",
+      "type": "tahliye",
+      "description": "İstanbul 3. Asliye Ceza Mahkemesindeki ilk duruşmada tutuklulukta geçirdiği süre dikkate alınarak tahliyesine karar verildi; duruşma 12 Haziran 2026'ya ertelendi.",
+      "sources": [
+        { "url": "https://www.cumhuriyet.com.tr/turkiye/futbolda-yasa-disi-bahis-sorusturmasi-metehan-baltaci-icin-tahliye-karari-2489424", "outlet": "Cumhuriyet", "date": "2026-03-25" },
+        { "url": "https://medyascope.tv/2026/03/25/metehan-baltaci-hakkinda-tahliye-karari-verildi/", "outlet": "Medyascope", "date": "2026-03-25" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

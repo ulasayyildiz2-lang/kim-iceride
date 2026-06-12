@@ -1,0 +1,53 @@
+{
+  "id": "aziz-ihsan-aktas",
+  "name": "Aziz İhsan Aktaş",
+  "category": "is",
+  "currentStatus": "tutuksuz-yargilaniyor",
+  "case": "aziz-ihsan-aktas-suc-orgutu-davasi",
+  "summary": "İş insanı Aziz İhsan Aktaş, belediye ihalelerine yönelik 'suç örgütü' soruşturması kapsamında Ocak 2025'te tutuklandı; etkin pişmanlık hükümlerinden yararlanarak Haziran 2025'te tahliye edildi ve 200 sanıklı davada tutuksuz yargılanıyor.",
+  "events": [
+    {
+      "date": "2025-01-17",
+      "type": "tutuklama",
+      "description": "Belediyelere yönelik 'suç örgütü kurma, rüşvet ve ihaleye fesat karıştırma' iddialarıyla yürütülen soruşturma kapsamında, aralarında Beşiktaş Belediye Başkanı Rıza Akpolat'ın da bulunduğu 23 şüpheliyle birlikte tutuklandı.",
+      "sources": [
+        { "url": "https://www.aa.com.tr/tr/gundem/suc-orgutu-sorusturmasinda-riza-akpolatin-da-arasinda-oldugu-23-zanli-tutuklandi/3453143", "outlet": "Anadolu Ajansı", "date": "2025-01-17" }
+      ]
+    },
+    {
+      "date": "2025-06-04",
+      "type": "tahliye",
+      "description": "Etkin pişmanlık hükümlerinden yararlanmak üzere verdiği ifadelerin ardından, konutu terk etmeme şeklinde adli kontrol tedbiriyle tahliye edildi.",
+      "sources": [
+        { "url": "https://medyascope.tv/2025/06/04/aziz-ihsan-aktas-tahliye-edildi/", "outlet": "Medyascope", "date": "2025-06-04" },
+        { "url": "https://www.sozcu.com.tr/son-dakika-itirafci-aziz-ihsan-aktas-tahliye-edildi-p180878", "outlet": "Sözcü", "date": "2025-06-04" }
+      ]
+    },
+    {
+      "date": "2025-11-05",
+      "type": "iddianame",
+      "description": "Aktaş'ın da aralarında bulunduğu 200 şüpheli hakkında hazırlanan iddianame, İstanbul 1. Ağır Ceza Mahkemesi tarafından kabul edildi.",
+      "sources": [
+        { "url": "https://www.aa.com.tr/tr/gundem/aziz-ihsan-aktas-suc-orgutune-yonelik-sorusturmada-hazirlanan-iddianame-kabul-edildi/3735826", "outlet": "Anadolu Ajansı", "date": "2025-11-05" }
+      ]
+    },
+    {
+      "date": "2026-01-27",
+      "type": "durusma",
+      "description": "200 sanıklı davanın ilk duruşması Silivri'deki Marmara Ceza İnfaz Kurumları Yerleşkesi'nde başladı; Aktaş davada tutuksuz sanık olarak yer aldı.",
+      "sources": [
+        { "url": "https://bianet.org/haber/aziz-ihsan-aktas-davasinda-ilk-durusma-usul-talepleri-reddedildi-316051", "outlet": "Bianet", "date": "2026-01-27" },
+        { "url": "https://medyascope.tv/2026/01/26/orgut-lideri-serbest-uyesi-tutuklu-aziz-ihsan-aktas-davasi-ilk-durusma-oncesi-bilmeniz-gerekenler/", "outlet": "Medyascope", "date": "2026-01-26" }
+      ]
+    },
+    {
+      "date": "2026-02-27",
+      "type": "durusma",
+      "description": "İstanbul 1. Ağır Ceza Mahkemesi'ndeki 19. duruşmada açıklanan ara kararla tutuklu sanıklardan 7'si tahliye edildi; yargılama devam ediyor.",
+      "sources": [
+        { "url": "https://bianet.org/haber/aziz-ihsan-aktas-davasinda-ara-karar-7-kisi-tahliye-edildi-belediye-baskanlari-tutuklu-317158", "outlet": "Bianet", "date": "2026-02-27" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

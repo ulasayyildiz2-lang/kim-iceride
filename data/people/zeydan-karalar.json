@@ -1,0 +1,36 @@
+{
+  "id": "zeydan-karalar",
+  "name": "Zeydan Karalar",
+  "category": "siyaset",
+  "currentStatus": "tutuksuz-yargilaniyor",
+  "case": "aziz-ihsan-aktas-suc-orgutu-davasi",
+  "summary": "CHP'li Adana Büyükşehir Belediye Başkanı; Aziz İhsan Aktaş soruşturması kapsamında Temmuz 2025'te 'icbar suretiyle irtikap' iddiasıyla tutuklandı ve görevden uzaklaştırıldı, Şubat 2026'da tahliye edildi; yargılaması tutuksuz sürüyor.",
+  "events": [
+    {
+      "date": "2025-07-05",
+      "type": "gozalti",
+      "description": "İstanbul Cumhuriyet Başsavcılığı'nın yürüttüğü soruşturma kapsamında gözaltına alındı.",
+      "sources": [
+        { "url": "https://www.hurriyet.com.tr/gundem/son-dakika-adiyaman-belediye-baskani-abdurrahman-tutdere-gozaltina-alindi-42866007", "outlet": "Hürriyet", "date": "2025-07-05" }
+      ]
+    },
+    {
+      "date": "2025-07-08",
+      "type": "tutuklama",
+      "description": "'İcbar suretiyle irtikap' iddiası kapsamında sulh ceza hakimliğince tutuklandı.",
+      "sources": [
+        { "url": "https://medyascope.tv/2025/07/08/adana-buyuksehir-belediye-baskani-zeydan-karalar-tutuklandi/", "outlet": "Medyascope", "date": "2025-07-08" },
+        { "url": "https://tr.euronews.com/2026/02/05/adana-buyuksehir-belediye-baskani-zeydan-karalar-tahliye-edildi", "outlet": "Euronews Türkçe", "date": "2026-02-05" }
+      ]
+    },
+    {
+      "date": "2026-02-05",
+      "type": "tahliye",
+      "description": "Aziz İhsan Aktaş davasının ilk duruşmalarında mahkeme, Karalar'ın da aralarında bulunduğu 9 sanığın tahliyesine karar verdi.",
+      "sources": [
+        { "url": "https://tr.euronews.com/2026/02/05/adana-buyuksehir-belediye-baskani-zeydan-karalar-tahliye-edildi", "outlet": "Euronews Türkçe", "date": "2026-02-05" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

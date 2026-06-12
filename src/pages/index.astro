@@ -1,0 +1,194 @@
+---
+import Layout from "../layouts/Layout.astro";
+import PersonCard from "../components/PersonCard.astro";
+import {
+  people,
+  eventFeed,
+  formatDate,
+  personUrl,
+} from "../lib/data";
+import {
+  STATUS_META,
+  CATEGORY_META,
+  EVENT_META,
+  type Status,
+  type Category,
+} from "../lib/schema";
+
+const statusOrder = Object.keys(STATUS_META) as Status[];
+const statusCounts = statusOrder
+  .map((s) => ({
+    status: s,
+    meta: STATUS_META[s],
+    count: people.filter((p) => p.currentStatus === s).length,
+  }))
+  .filter((s) => s.count > 0);
+
+const categories = (Object.keys(CATEGORY_META) as Category[])
+  .map((c) => ({
+    category: c,
+    label: CATEGORY_META[c].label,
+    count: people.filter((p) => p.category === c).length,
+  }))
+  .filter((c) => c.count > 0);
+
+const feed = eventFeed(6);
+---
+
+<Layout>
+  <section>
+    <h1 class="text-2xl font-bold tracking-tight">
+      Türkiye'de adli süreçteki tanınmış kişiler
+    </h1>
+    <p class="mt-1 max-w-3xl text-stone-600">
+      Gözaltı, tutuklama ve dava süreçleri — kamuya açık haber kaynaklarına
+      dayalı, her kayıt kaynaklı. Toplam <strong>{people.length}</strong> kişi
+      takip ediliyor.
+    </p>
+  </section>
+
+  <!-- Durum sayaçları / filtre -->
+  <section class="mt-6 flex flex-wrap gap-2" aria-label="Duruma göre filtrele">
+    <button
+      type="button"
+      class="filtre aktif rounded-lg border border-stone-300 bg-white px-3 py-2 text-sm font-medium shadow-sm"
+      data-filter-group="status"
+      data-filter-value="all"
+    >
+      Tümü <span class="ml-1 text-stone-400">{people.length}</span>
+    </button>
+    {
+      statusCounts.map(({ status, meta, count }) => (
+        <button
+          type="button"
+          class="filtre rounded-lg border border-stone-300 bg-white px-3 py-2 text-sm font-medium shadow-sm"
+          data-filter-group="status"
+          data-filter-value={status}
+        >
+          <span class={`mr-1.5 inline-block h-2 w-2 rounded-full ${meta.dot}`} />
+          {meta.label} <span class="ml-1 text-stone-400">{count}</span>
+        </button>
+      ))
+    }
+  </section>
+
+  <!-- Kategori + arama -->
+  <section class="mt-3 flex flex-wrap items-center gap-2" aria-label="Kategoriye göre filtrele">
+    <button
+      type="button"
+      class="filtre aktif rounded-full border border-stone-300 bg-white px-3 py-1 text-xs font-medium"
+      data-filter-group="category"
+      data-filter-value="all"
+    >
+      Tüm kategoriler
+    </button>
+    {
+      categories.map(({ category, label, count }) => (
+        <button
+          type="button"
+          class="filtre rounded-full border border-stone-300 bg-white px-3 py-1 text-xs font-medium"
+          data-filter-group="category"
+          data-filter-value={category}
+        >
+          {label} <span class="text-stone-400">{count}</span>
+        </button>
+      ))
+    }
+    <input
+      id="arama"
+      type="search"
+      placeholder="İsim ara…"
+      class="ml-auto w-full rounded-lg border border-stone-300 bg-white px-3 py-1.5 text-sm shadow-sm focus:border-stone-500 focus:outline-none sm:w-56"
+    />
+  </section>
+
+  <div class="mt-6 grid gap-8 lg:grid-cols-[1fr_280px]">
+    <!-- Kişi kartları -->
+    <section>
+      <div id="kisi-listesi" class="grid gap-4 sm:grid-cols-2">
+        {people.map((person) => <PersonCard person={person} />)}
+      </div>
+      <p id="sonuc-yok" class="hidden rounded-xl border border-dashed border-stone-300 bg-white p-8 text-center text-stone-500">
+        Bu filtrelerle eşleşen kişi bulunamadı.
+      </p>
+    </section>
+
+    <!-- Son gelişmeler -->
+    <aside>
+      <h2 class="text-sm font-semibold uppercase tracking-wide text-stone-500">
+        Son gelişmeler
+      </h2>
+      <ol class="mt-3 space-y-3">
+        {
+          feed.map(({ person, event }) => (
+            <li class="rounded-lg border border-stone-200 bg-white p-3 text-sm shadow-sm">
+              <p class="text-xs text-stone-400">{formatDate(event.date)}</p>
+              <p class="mt-0.5">
+                <a href={personUrl(person)} class="font-semibold hover:underline">
+                  {person.name}
+                </a>
+                <span class="text-stone-500"> · {EVENT_META[event.type].label}</span>
+              </p>
+            </li>
+          ))
+        }
+      </ol>
+    </aside>
+  </div>
+</Layout>
+
+<style>
+  .filtre.aktif {
+    background-color: var(--color-stone-900);
+    border-color: var(--color-stone-900);
+    color: white;
+  }
+  .filtre.aktif .text-stone-400 {
+    color: var(--color-stone-300);
+  }
+</style>
+
+<script>
+  const cards = Array.from(
+    document.querySelectorAll<HTMLElement>(".person-card"),
+  );
+  const buttons = Array.from(
+    document.querySelectorAll<HTMLButtonElement>("[data-filter-group]"),
+  );
+  const searchInput = document.getElementById("arama") as HTMLInputElement;
+  const emptyState = document.getElementById("sonuc-yok")!;
+
+  const state = { status: "all", category: "all", q: "" };
+
+  function apply() {
+    let visible = 0;
+    for (const card of cards) {
+      const matches =
+        (state.status === "all" || card.dataset.status === state.status) &&
+        (state.category === "all" ||
+          card.dataset.category === state.category) &&
+        (state.q === "" || (card.dataset.name ?? "").includes(state.q));
+      card.classList.toggle("hidden", !matches);
+      if (matches) visible++;
+    }
+    emptyState.classList.toggle("hidden", visible > 0);
+  }
+
+  for (const btn of buttons) {
+    btn.addEventListener("click", () => {
+      const group = btn.dataset.filterGroup as "status" | "category";
+      state[group] = btn.dataset.filterValue ?? "all";
+      for (const other of buttons) {
+        if (other.dataset.filterGroup === group) {
+          other.classList.toggle("aktif", other === btn);
+        }
+      }
+      apply();
+    });
+  }
+
+  searchInput.addEventListener("input", () => {
+    state.q = searchInput.value.trim().toLocaleLowerCase("tr");
+    apply();
+  });
+</script>

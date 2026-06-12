@@ -1,0 +1,44 @@
+{
+  "id": "selahattin-demirtas",
+  "name": "Selahattin Demirtaş",
+  "category": "siyaset",
+  "currentStatus": "tutuklu",
+  "case": "kobani-davasi",
+  "summary": "Eski HDP Eş Genel Başkanı; Kasım 2016'dan bu yana cezaevinde bulunuyor. Kobani davasında ilk derece mahkemesince 42 yıl hapis cezasına çarptırıldı; AİHM'in kesinleşen ihlal ve tahliye kararı sonrasında da Edirne'deki cezaevinde tutulması sürüyor, dosya istinaf aşamasında.",
+  "events": [
+    {
+      "date": "2016-11-04",
+      "type": "tutuklama",
+      "description": "HDP'li milletvekillerine yönelik operasyon kapsamında gözaltına alındı ve 'terör örgütü' bağlantısı iddialarıyla tutuklandı.",
+      "sources": [
+        { "url": "https://www.hrw.org/tr/news/2020/11/19/377061", "outlet": "Human Rights Watch", "date": "2020-11-19" }
+      ]
+    },
+    {
+      "date": "2024-05-16",
+      "type": "mahkumiyet",
+      "description": "Kobani davasında 'devletin birliğini ve ülke bütünlüğünü bozma' dahil suçlardan toplam 42 yıl hapis cezasına çarptırıldı; karar kesinleşmedi, dosya istinaf aşamasında.",
+      "sources": [
+        { "url": "https://tr.euronews.com/2024/05/16/demirtas-figen-yuksekdag-ve-ahmet-turkun-yargilandigi-kobani-davasinda-kararlar-aciklandi", "outlet": "Euronews Türkçe", "date": "2024-05-16" },
+        { "url": "https://medyascope.tv/2024/05/16/kobani-davasinda-karar-ahmet-turke-10-yil-hapis-gultan-kisanaka-tahliye/", "outlet": "Medyascope", "date": "2024-05-16" }
+      ]
+    },
+    {
+      "date": "2025-07-08",
+      "type": "diger",
+      "description": "AİHM, Kobani davası kapsamındaki tutukluluğunun siyasi saiklerle sürdürüldüğüne hükmederek hak ihlali kararı verdi ve serbest bırakılması gerektiğini belirtti.",
+      "sources": [
+        { "url": "https://tr.euronews.com/2025/11/03/aihm-turkiyenin-selahattin-demirtas-kararina-yaptigi-itirazi-reddetti", "outlet": "Euronews Türkçe", "date": "2025-11-03" }
+      ]
+    },
+    {
+      "date": "2025-11-03",
+      "type": "diger",
+      "description": "AİHM paneli, Türkiye'nin kararın Büyük Daire'de yeniden incelenmesi talebini reddetti; ihlal ve tahliye kararı kesinleşti.",
+      "sources": [
+        { "url": "https://tr.euronews.com/2025/11/03/aihm-turkiyenin-selahattin-demirtas-kararina-yaptigi-itirazi-reddetti", "outlet": "Euronews Türkçe", "date": "2025-11-03" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

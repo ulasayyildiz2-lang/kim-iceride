@@ -1,0 +1,30 @@
+{
+  "name": "c-users-ulas-projects-kim-iceride",
+  "type": "module",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "validate": "tsx scripts/validate.ts",
+    "scan:dry": "tsx scripts/scan.ts --dry-run",
+    "scan": "tsx scripts/scan.ts --apply"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.3.0",
+    "astro": "^6.4.6",
+    "chart.js": "^4.5.1",
+    "rss-parser": "^3.13.0",
+    "tailwindcss": "^4.3.0",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@anthropic-ai/sdk": "^0.104.1",
+    "pagefind": "^1.5.2",
+    "tsx": "^4.22.4"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "merdan-yanardag",
+  "name": "Merdan Yanardağ",
+  "category": "medya",
+  "currentStatus": "tutuklu",
+  "case": "siyasal-casusluk-davasi",
+  "summary": "TELE1 Genel Yayın Yönetmeni Merdan Yanardağ, Ekim 2025'te 'casusluk' soruşturması kapsamında tutuklandı; Ekrem İmamoğlu, Necati Özkan ve Hüseyin Gün ile birlikte yargılandığı davada Haziran 2026 itibarıyla tutukluluğu sürüyor.",
+  "events": [
+    {
+      "date": "2025-10-24",
+      "type": "gozalti",
+      "description": "TELE1'in yayıncı kuruluşuna TMSF'nin kayyum olarak atandığı gün, Yanardağ hakkında 'casusluk' soruşturması kapsamında gözaltı işlemi uygulandı.",
+      "sources": [
+        { "url": "https://tr.euronews.com/2025/10/27/gazeteci-merdan-yanardag-tutuklandi", "outlet": "Euronews Türkçe", "date": "2025-10-27" }
+      ]
+    },
+    {
+      "date": "2025-10-27",
+      "type": "tutuklama",
+      "description": "Ekrem İmamoğlu ve Necati Özkan ile birlikte 'siyasal casusluk' suçlamasıyla tutuklandı.",
+      "sources": [
+        { "url": "https://tr.euronews.com/2025/10/27/gazeteci-merdan-yanardag-tutuklandi", "outlet": "Euronews Türkçe", "date": "2025-10-27" }
+      ]
+    },
+    {
+      "date": "2026-05-11",
+      "type": "durusma",
+      "description": "Hakkında 15 yıldan 20 yıla kadar hapis istenen Yanardağ'ın da sanığı olduğu 'siyasal casusluk' davasının ilk duruşması, İstanbul 25. Ağır Ceza Mahkemesi'nce Silivri'deki yerleşkede görülmeye başlandı.",
+      "sources": [
+        { "url": "https://t24.com.tr/gundem/casusluk-davasinda-ilk-durusma-bugun-ekrem-imamoglu-merdan-yanardag-ve-necati-ozkan-hakim-karsisina-cikacak,1320806", "outlet": "T24", "date": "2026-05-11" },
+        { "url": "https://www.hurriyet.com.tr/gundem/ekrem-imamoglunun-yargilandigi-casusluk-davasinda-ilk-durusma-basladi-43170984", "outlet": "Hürriyet", "date": "2026-05-11" }
+      ]
+    },
+    {
+      "date": "2026-05-13",
+      "type": "durusma",
+      "description": "Mahkeme ara kararında Yanardağ'ın ve diğer üç sanığın tutukluluğunun devamına hükmetti; duruşma 6 Temmuz 2026'ya ertelendi.",
+      "sources": [
+        { "url": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-ekrem-imamoglu-merdan-yanardag-ve-necati-ozkan-hakim-karsisina-cikti-casusluk-davasinda-ara-karar-verildi-2503337", "outlet": "Cumhuriyet", "date": "2026-05-13" },
+        { "url": "https://www.takvim.com.tr/guncel/2026/05/13/casusluk-davasinda-ara-karar-ekrem-imamoglu-necati-ozkan-huseyin-gun-ve-merdan-yanardagin-tutuklulugu-devam-edecek", "outlet": "Takvim", "date": "2026-05-13" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

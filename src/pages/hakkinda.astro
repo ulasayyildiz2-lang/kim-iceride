@@ -1,0 +1,75 @@
+---
+import Layout from "../layouts/Layout.astro";
+---
+
+<Layout title="Hakkında ve yöntem">
+  <article class="prose-stone max-w-2xl space-y-8">
+    <section>
+      <h1 class="text-2xl font-bold tracking-tight">Hakkında</h1>
+      <p class="mt-3 text-stone-700">
+        Bu site, Türkiye'de kamuoyunun tanıdığı kişilerin (iş, sanat, spor,
+        siyaset, medya, hukuk, akademi ve sivil toplum alanlarından) gözaltı,
+        tutuklama ve dava süreçlerini tek bir yerden, güncel ve kaynaklı
+        biçimde takip edilebilir kılmak amacıyla hazırlanmıştır. Amaç bilgi
+        vermektir; herhangi bir kişi veya kurum hakkında suçlama ya da
+        değerlendirme yapılmaz.
+      </p>
+    </section>
+
+    <section>
+      <h2 class="text-lg font-semibold">Yöntem ve kaynak politikası</h2>
+      <ul class="mt-3 list-disc space-y-2 pl-5 text-stone-700">
+        <li>
+          Yalnızca kamuya mal olmuş kişiler hakkında, halihazırda basında
+          yayımlanmış bilgiler derlenir; özel hayata ilişkin bilgi yer almaz.
+        </li>
+        <li>
+          Her olay kaydı en az bir haber kaynağına bağlanır. Kaynaksız bilgi
+          yayımlanmaz — bu kural teknik olarak da zorunlu kılınmıştır.
+        </li>
+        <li>
+          Anlatım nötrdür: "iddiasıyla", "kapsamında" gibi ifadeler kullanılır;
+          tahliye, beraat ve serbest bırakılma kararları da tutuklamalarla aynı
+          özenle işlenir.
+        </li>
+        <li>
+          Kayıtlar her gün haber kaynakları taranarak güncellenir; her
+          güncelleme yayımlanmadan önce insan kontrolünden geçer.
+        </li>
+        <li>
+          Tüm değişiklik geçmişi açık biçimde saklanır; hangi bilginin ne zaman
+          eklendiği veya düzeltildiği izlenebilir.
+        </li>
+      </ul>
+    </section>
+
+    <section>
+      <h2 class="text-lg font-semibold">Masumiyet karinesi</h2>
+      <p class="mt-3 text-stone-700">
+        Bu sitede yer alan hiç kimse, hakkında kesinleşmiş bir mahkeme kararı
+        bulunmadıkça suçlu kabul edilemez. Gözaltı ve tutuklama birer koruma
+        tedbiridir; suçluluğun kanıtı değildir. Kayıtlar yalnızca adli sürecin
+        aşamalarını aktarır.
+      </p>
+    </section>
+
+    <section>
+      <h2 class="text-lg font-semibold">Düzeltme</h2>
+      <p class="mt-3 text-stone-700">
+        Hatalı veya eksik bir bilgi fark ederseniz lütfen kaynak göstererek
+        bildirin; kayıtlar en kısa sürede düzeltilir ve düzeltme geçmişi açık
+        tutulur.
+      </p>
+    </section>
+
+    <section>
+      <h2 class="text-lg font-semibold">Açık veri</h2>
+      <p class="mt-3 text-stone-700">
+        Tüm veri seti açık formatta sunulur ve kaynak gösterilerek serbestçe
+        kullanılabilir:
+        <a href="/api/people.json" class="underline">JSON</a> ·
+        <a href="/rss.xml" class="underline">RSS</a>
+      </p>
+    </section>
+  </article>
+</Layout>

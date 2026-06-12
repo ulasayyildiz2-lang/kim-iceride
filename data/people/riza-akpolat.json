@@ -1,0 +1,43 @@
+{
+  "id": "riza-akpolat",
+  "name": "Rıza Akpolat",
+  "category": "siyaset",
+  "currentStatus": "tutuklu",
+  "case": "aziz-ihsan-aktas-suc-orgutu-davasi",
+  "summary": "CHP'li Beşiktaş Belediye Başkanı; Aziz İhsan Aktaş'ın yönettiği iddia edilen suç örgütüne ilişkin soruşturma kapsamında Ocak 2025'te tutuklandı ve görevden uzaklaştırıldı; davada tutuklu olarak yargılanıyor.",
+  "events": [
+    {
+      "date": "2025-01-13",
+      "type": "gozalti",
+      "description": "İstanbul Cumhuriyet Başsavcılığı'nın ihale yolsuzluğu iddialarına ilişkin soruşturması kapsamında gözaltına alındı.",
+      "sources": [
+        { "url": "https://medyascope.tv/2025/01/16/riza-akpolat-tutuklandi-besiktas-belediyesinde-simdi-ne-olacak/", "outlet": "Medyascope", "date": "2025-01-16" }
+      ]
+    },
+    {
+      "date": "2025-01-16",
+      "type": "tutuklama",
+      "description": "Savcılık sorgusunun ardından, aralarında 'ihaleye fesat karıştırma' ve 'suç örgütüne üye olma' iddialarının bulunduğu suçlamalarla tutuklandı.",
+      "sources": [
+        { "url": "https://medyascope.tv/2025/01/16/riza-akpolat-tutuklandi-besiktas-belediyesinde-simdi-ne-olacak/", "outlet": "Medyascope", "date": "2025-01-16" }
+      ]
+    },
+    {
+      "date": "2025-01-17",
+      "type": "diger",
+      "description": "Tutuklanması üzerine İçişleri Bakanlığı kararıyla Beşiktaş Belediye Başkanlığı görevinden uzaklaştırıldı.",
+      "sources": [
+        { "url": "https://www.aa.com.tr/tr/gundem/besiktas-belediye-baskani-riza-akpolat-gorevden-uzaklastirildi/3453763", "outlet": "Anadolu Ajansı", "date": "2025-01-17" }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "type": "durusma",
+      "description": "Aziz İhsan Aktaş davasında mahkeme dört sanığın tahliyesine, Akpolat'ın ise tutukluluğunun devamına karar verdi; duruşma 15 Haziran 2026'ya ertelendi.",
+      "sources": [
+        { "url": "https://www.yenisafak.com/gundem/aziz-ihsan-aktas-suc-orgutu-davasinda-yeni-gelisme-riza-akpolatin-yakinlari-dahil-dort-isme-tahliye-4824005", "outlet": "Yeni Şafak", "date": "2026-05-14" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

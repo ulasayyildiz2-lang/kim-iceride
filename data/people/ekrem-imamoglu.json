@@ -1,0 +1,51 @@
+{
+  "id": "ekrem-imamoglu",
+  "name": "Ekrem İmamoğlu",
+  "category": "siyaset",
+  "currentStatus": "tutuklu",
+  "case": "ibb-sorusturmasi",
+  "summary": "İstanbul Büyükşehir Belediye Başkanı ve CHP'nin cumhurbaşkanı adayı; İBB'ye yönelik yolsuzluk iddiaları kapsamında Mart 2025'te tutuklandı ve 400'ü aşkın sanıklı davada tutuklu olarak yargılanıyor.",
+  "events": [
+    {
+      "date": "2025-03-19",
+      "type": "gozalti",
+      "description": "İBB'ye yönelik 'yolsuzluk' soruşturması kapsamında evine yapılan operasyonla gözaltına alındı.",
+      "sources": [
+        { "url": "https://medyascope.tv/2025/12/31/2025in-olayi-imamoglunun-tutuklanmasi/", "outlet": "Medyascope", "date": "2025-12-31" }
+      ]
+    },
+    {
+      "date": "2025-03-23",
+      "type": "tutuklama",
+      "description": "'Rüşvet', 'ihaleye fesat karıştırma' ve 'suç örgütü' iddialarıyla tutuklanarak Silivri'deki cezaevine gönderildi; İçişleri Bakanlığı kararıyla görevden uzaklaştırıldı.",
+      "sources": [
+        { "url": "https://medyascope.tv/2025/12/31/2025in-olayi-imamoglunun-tutuklanmasi/", "outlet": "Medyascope", "date": "2025-12-31" }
+      ]
+    },
+    {
+      "date": "2025-11-25",
+      "type": "iddianame",
+      "description": "İmamoğlu'nun aralarında bulunduğu 407 şüpheli hakkındaki İBB iddianamesi mahkemece kabul edildi.",
+      "sources": [
+        { "url": "https://tr.euronews.com/2025/11/25/ibb-iddianamesi-kabul-edildi-imamoglu-dahil-407-supheli-agir-ceza-mahkemesinde-yargilanaca", "outlet": "Euronews Türkçe", "date": "2025-11-25" }
+      ]
+    },
+    {
+      "date": "2026-03-09",
+      "type": "durusma",
+      "description": "'Çıkar amaçlı suç örgütü' iddiasına ilişkin İBB davasının ilk duruşması, 106'sı tutuklu 402 sanıkla Silivri'deki Marmara Cezaevi yerleşkesinde başladı.",
+      "sources": [
+        { "url": "https://www.cumhuriyet.com.tr/siyaset/ibb-davasi-nda-ilk-durusma-gunu-ekrem-imamoglu-dahil-106-si-tutuklu-402-kisi-hakim-karsisinda-cumhuriyet-silivri-den-dakika-dakika-gelismeleri-bildiriyor-2485200", "outlet": "Cumhuriyet", "date": "2026-03-09" }
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "type": "durusma",
+      "description": "Davanın 49. duruşma günü Silivri'de görüldü; İmamoğlu'nun tutukluluğu devam ediyor.",
+      "sources": [
+        { "url": "https://www.cumhuriyet.com.tr/turkiye/cumhuriyet-silivri-den-bildiriyor-ibb-davasi-49-uncu-gununde-elif-guven-den-etkin-pismanlik-aciklamasi-kimseye-iftira-atamam-dedim-2511221", "outlet": "Cumhuriyet", "date": "2026-06-11" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

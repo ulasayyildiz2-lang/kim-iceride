@@ -1,0 +1,20 @@
+---
+import { STATUS_META, type Status } from "../lib/schema";
+
+interface Props {
+  status: Status;
+  size?: "sm" | "md";
+}
+
+const { status, size = "sm" } = Astro.props;
+const meta = STATUS_META[status];
+const sizeClasses =
+  size === "md" ? "px-3 py-1 text-sm" : "px-2 py-0.5 text-xs";
+---
+
+<span
+  class={`inline-flex items-center gap-1.5 rounded-full border font-medium ${meta.badge} ${sizeClasses}`}
+>
+  <span class={`h-1.5 w-1.5 rounded-full ${meta.dot}`}></span>
+  {meta.label}
+</span>

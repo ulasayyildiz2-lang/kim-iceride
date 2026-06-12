@@ -1,0 +1,46 @@
+{
+  "id": "fatih-altayli",
+  "name": "Fatih Altaylı",
+  "category": "medya",
+  "currentStatus": "tahliye",
+  "case": "altayli-cumhurbaskanini-tehdit-davasi",
+  "summary": "Gazeteci ve YouTube yayıncısı Fatih Altaylı, Haziran 2025'te yayınındaki sözleri nedeniyle 'Cumhurbaşkanını tehdit' iddiasıyla tutuklandı; Kasım 2025'te 4 yıl 2 ay hapis cezasına çarptırıldı, Aralık 2025'te istinaf aşamasında tahliye edildi.",
+  "events": [
+    {
+      "date": "2025-06-21",
+      "type": "gozalti",
+      "description": "YouTube kanalındaki yayınında kullandığı sözler nedeniyle 'Cumhurbaşkanını tehdit' iddiasıyla resen başlatılan soruşturma kapsamında gözaltına alındı.",
+      "sources": [
+        { "url": "https://aa.com.tr/tr/gundem/fatih-altayli-cumhurbaskanini-tehdit-sucundan-tutuklandi/3608656", "outlet": "Anadolu Ajansı", "date": "2025-06-22" },
+        { "url": "https://www.forbes.com.tr/makale/cumhurbaskanini-tehdit-suclamasiyla-gozaltina-alinan-fatih-altayli-tutuklandi", "outlet": "Forbes Türkiye", "date": "2025-06-22" }
+      ]
+    },
+    {
+      "date": "2025-06-22",
+      "type": "tutuklama",
+      "description": "Adliyeye sevkinin ardından hakimlik kararıyla 'Cumhurbaşkanını tehdit' suçlamasıyla tutuklandı.",
+      "sources": [
+        { "url": "https://aa.com.tr/tr/gundem/fatih-altayli-cumhurbaskanini-tehdit-sucundan-tutuklandi/3608656", "outlet": "Anadolu Ajansı", "date": "2025-06-22" },
+        { "url": "https://yetkinreport.com/2025/06/22/gazeteci-fatih-altayli-tutuklandi-cumhurbaskanini-tehditle-suclaniyor/", "outlet": "Yetkin Report", "date": "2025-06-22" }
+      ]
+    },
+    {
+      "date": "2025-11-26",
+      "type": "mahkumiyet",
+      "description": "İstanbul 26. Ağır Ceza Mahkemesi, Altaylı'yı 'Cumhurbaşkanına yönelik tehdit' suçundan 4 yıl 2 ay hapis cezasına çarptırdı ve tutukluluk halinin devamına karar verdi.",
+      "sources": [
+        { "url": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-fatih-altayli-tahliye-edilmedi-4-yil-2-ay-hapis-cezasi-2455967", "outlet": "Cumhuriyet", "date": "2025-11-26" }
+      ]
+    },
+    {
+      "date": "2025-12-29",
+      "type": "tahliye",
+      "description": "İstanbul Bölge Adliye Mahkemesi 2. Ceza Dairesi, istinaf incelemesi sürerken cezanın miktarını ve tutuklulukta geçen süreyi gözeterek 190 gündür tutuklu olan Altaylı'nın tahliyesine karar verdi.",
+      "sources": [
+        { "url": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-fatih-altayli-ya-tahliye-karari-2465564", "outlet": "Cumhuriyet", "date": "2025-12-29" },
+        { "url": "https://www.haberturk.com/son-dakika-fatih-altayli-hakkinda-tahliye-karari-3849390", "outlet": "Habertürk", "date": "2025-12-29" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

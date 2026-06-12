@@ -1,0 +1,52 @@
+{
+  "id": "can-atalay",
+  "name": "Şerafettin Can Atalay",
+  "category": "siyaset",
+  "currentStatus": "hukumlu",
+  "case": "gezi-davasi",
+  "summary": "Avukat ve TİP'ten seçilmiş Hatay milletvekili; Gezi davasında 18 yıl hapis cezasına çarptırıldı. AYM'nin hak ihlali kararlarına karşın tahliye edilmedi, milletvekilliği düşürüldü ve cezaevinde tutulması sürüyor.",
+  "events": [
+    {
+      "date": "2022-04-25",
+      "type": "mahkumiyet",
+      "description": "Gezi davasında 'hükümeti ortadan kaldırmaya teşebbüse yardım' suçlamasıyla 18 yıl hapis cezasına çarptırıldı ve tutuklandı.",
+      "sources": [
+        { "url": "https://www.hurriyet.com.tr/gundem/son-dakika-osman-kavalanin-cezasi-belli-oldu-42050953", "outlet": "Hürriyet", "date": "2022-04-25" }
+      ]
+    },
+    {
+      "date": "2023-05-14",
+      "type": "diger",
+      "description": "Tutukluyken Türkiye İşçi Partisi'nden Hatay milletvekili seçildi.",
+      "sources": [
+        { "url": "https://medyascope.tv/2026/05/16/can-atalay-kimdir/", "outlet": "Medyascope", "date": "2026-05-16" }
+      ]
+    },
+    {
+      "date": "2023-10-25",
+      "type": "diger",
+      "description": "Anayasa Mahkemesi, milletvekili seçilmesine rağmen tahliye edilmemesi nedeniyle hak ihlali kararı verdi; 21 Aralık 2023'te ikinci kez ihlal kararı verilmesine karşın kararlar derece mahkemelerince uygulanmadı.",
+      "sources": [
+        { "url": "https://medyascope.tv/2026/05/16/can-atalay-kimdir/", "outlet": "Medyascope", "date": "2026-05-16" }
+      ]
+    },
+    {
+      "date": "2024-01-30",
+      "type": "diger",
+      "description": "TBMM Genel Kurulu'nda milletvekilliği düşürüldü.",
+      "sources": [
+        { "url": "https://www.yenisafak.com/gundem/gezi-parki-davasi-hukumlusu-can-atalayin-milletvekilligi-dusuruldu-4598695", "outlet": "Yeni Şafak", "date": "2024-01-30" },
+        { "url": "https://medyascope.tv/2026/05/16/can-atalay-kimdir/", "outlet": "Medyascope", "date": "2026-05-16" }
+      ]
+    },
+    {
+      "date": "2026-05-16",
+      "type": "diger",
+      "description": "Mayıs 2026 itibarıyla Silivri'deki Marmara Cezaevi'nde hükümlü olarak tutulmaya devam ediyor.",
+      "sources": [
+        { "url": "https://medyascope.tv/2026/05/16/can-atalay-kimdir/", "outlet": "Medyascope", "date": "2026-05-16" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

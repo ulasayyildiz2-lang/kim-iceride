@@ -1,0 +1,163 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { people } from "../lib/data";
+import {
+  STATUS_META,
+  CATEGORY_META,
+  type Status,
+  type Category,
+} from "../lib/schema";
+
+const STATUS_COLORS: Record<Status, string> = {
+  tutuklu: "#dc2626",
+  gozaltinda: "#f59e0b",
+  "adli-kontrol": "#f97316",
+  "tutuksuz-yargilaniyor": "#eab308",
+  tahliye: "#10b981",
+  hukumlu: "#be123c",
+  beraat: "#16a34a",
+  serbest: "#a8a29e",
+};
+
+const statusDist = (Object.keys(STATUS_META) as Status[])
+  .map((s) => ({
+    label: STATUS_META[s].label,
+    count: people.filter((p) => p.currentStatus === s).length,
+    color: STATUS_COLORS[s],
+  }))
+  .filter((d) => d.count > 0);
+
+const categoryDist = (Object.keys(CATEGORY_META) as Category[])
+  .map((c) => ({
+    label: CATEGORY_META[c].label,
+    count: people.filter((p) => p.category === c).length,
+  }))
+  .filter((d) => d.count > 0);
+
+// Aylara göre tutuklama ve tahliye sayıları
+const monthly = new Map<string, { tutuklama: number; tahliye: number }>();
+for (const p of people) {
+  for (const e of p.events) {
+    if (e.type !== "tutuklama" && e.type !== "tahliye") continue;
+    const month = e.date.slice(0, 7);
+    const entry = monthly.get(month) ?? { tutuklama: 0, tahliye: 0 };
+    entry[e.type]++;
+    monthly.set(month, entry);
+  }
+}
+const months = [...monthly.keys()].sort();
+const monthLabels = months.map((m) => {
+  const [y, mo] = m.split("-").map(Number);
+  return new Date(Date.UTC(y, mo - 1, 1)).toLocaleDateString("tr-TR", {
+    month: "short",
+    year: "numeric",
+    timeZone: "UTC",
+  });
+});
+
+const stats = {
+  status: statusDist,
+  category: categoryDist,
+  monthly: {
+    labels: monthLabels,
+    tutuklama: months.map((m) => monthly.get(m)!.tutuklama),
+    tahliye: months.map((m) => monthly.get(m)!.tahliye),
+  },
+};
+---
+
+<Layout title="İstatistik">
+  <h1 class="text-2xl font-bold tracking-tight">İstatistik</h1>
+  <p class="mt-1 text-stone-600">
+    Takip edilen {people.length} kişiye ait verilerin özeti.
+  </p>
+
+  <div class="mt-6 grid gap-6 lg:grid-cols-2">
+    <section class="rounded-xl border border-stone-200 bg-white p-5 shadow-sm">
+      <h2 class="font-semibold">Güncel duruma göre dağılım</h2>
+      <div class="mx-auto mt-4 max-w-xs">
+        <canvas id="grafik-durum"></canvas>
+      </div>
+    </section>
+
+    <section class="rounded-xl border border-stone-200 bg-white p-5 shadow-sm">
+      <h2 class="font-semibold">Kategoriye göre dağılım</h2>
+      <div class="mt-4">
+        <canvas id="grafik-kategori"></canvas>
+      </div>
+    </section>
+
+    <section class="rounded-xl border border-stone-200 bg-white p-5 shadow-sm lg:col-span-2">
+      <h2 class="font-semibold">Aylara göre tutuklama ve tahliye</h2>
+      <div class="mt-4">
+        <canvas id="grafik-aylik" class="max-h-80"></canvas>
+      </div>
+    </section>
+  </div>
+</Layout>
+
+<script type="application/json" id="stats-data" set:html={JSON.stringify(stats)} />
+
+<script>
+  import Chart from "chart.js/auto";
+
+  const stats = JSON.parse(
+    document.getElementById("stats-data")!.textContent ?? "{}",
+  );
+
+  new Chart(document.getElementById("grafik-durum") as HTMLCanvasElement, {
+    type: "doughnut",
+    data: {
+      labels: stats.status.map((d: any) => d.label),
+      datasets: [
+        {
+          data: stats.status.map((d: any) => d.count),
+          backgroundColor: stats.status.map((d: any) => d.color),
+          borderWidth: 1,
+        },
+      ],
+    },
+    options: { plugins: { legend: { position: "bottom" } } },
+  });
+
+  new Chart(document.getElementById("grafik-kategori") as HTMLCanvasElement, {
+    type: "bar",
+    data: {
+      labels: stats.category.map((d: any) => d.label),
+      datasets: [
+        {
+          data: stats.category.map((d: any) => d.count),
+          backgroundColor: "#44403c",
+        },
+      ],
+    },
+    options: {
+      indexAxis: "y",
+      plugins: { legend: { display: false } },
+      scales: { x: { ticks: { precision: 0 } } },
+    },
+  });
+
+  new Chart(document.getElementById("grafik-aylik") as HTMLCanvasElement, {
+    type: "bar",
+    data: {
+      labels: stats.monthly.labels,
+      datasets: [
+        {
+          label: "Tutuklama",
+          data: stats.monthly.tutuklama,
+          backgroundColor: "#dc2626",
+        },
+        {
+          label: "Tahliye",
+          data: stats.monthly.tahliye,
+          backgroundColor: "#10b981",
+        },
+      ],
+    },
+    options: {
+      plugins: { legend: { position: "bottom" } },
+      scales: { y: { ticks: { precision: 0 } } },
+    },
+  });
+</script>

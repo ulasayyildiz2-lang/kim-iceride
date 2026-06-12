@@ -1,0 +1,28 @@
+{
+  "id": "irem-derici",
+  "name": "İrem Derici",
+  "category": "sanat",
+  "currentStatus": "serbest",
+  "case": "unlulere-uyusturucu-sorusturmasi",
+  "summary": "Şarkıcı İrem Derici, İstanbul Cumhuriyet Başsavcılığının tanınmış isimlere yönelik uyuşturucu soruşturması kapsamında 8 Ekim 2025'te ifade ve kan örneği vermesinin ardından serbest bırakıldı; basına yansıyan Adli Tıp raporunda örneklerinde uyuşturucu maddeye rastlanmadığı bildirildi.",
+  "events": [
+    {
+      "date": "2025-10-08",
+      "type": "diger",
+      "description": "İstanbul Cumhuriyet Başsavcılığının 'uyuşturucu veya uyarıcı madde kullanma' iddiasıyla yürüttüğü soruşturma kapsamında ifadesi ve kan örneği alınmak üzere İstanbul İl Jandarma Komutanlığına götürüldü, işlemlerin ardından aynı gün serbest bırakıldı.",
+      "sources": [
+        { "url": "https://www.hurriyet.com.tr/gundem/son-dakika-unlu-isimlere-uyusturucu-operasyonu-aralarinda-irem-derici-demet-evgar-ve-hadise-de-var-kan-ornekleri-alinacak-42975838", "outlet": "Hürriyet", "date": "2025-10-08" },
+        { "url": "https://t24.com.tr/haber/sarkici-irem-derici-uyusturucu-madde-kullanimina-ozendirmek-iddiasiyla-gozaltina-alindi,1266180", "outlet": "T24", "date": "2025-10-08" }
+      ]
+    },
+    {
+      "date": "2025-10-18",
+      "type": "diger",
+      "description": "Basına yansıyan Adli Tıp Kurumu sonuçlarına göre kan ve saç örneklerinde uyuşturucu maddeye rastlanmadığı, yeşil reçeteyle temin edilen ilaç etken maddesi tespit edildiği bildirildi.",
+      "sources": [
+        { "url": "https://serbestiyet.com/featured/uyusturucu-operasyonu-itibar-suikastina-dondu-unlulerin-adli-tip-sonuclari-isim-isim-madde-madde-aciklandi-221740/", "outlet": "Serbestiyet", "date": "2025-10-18" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

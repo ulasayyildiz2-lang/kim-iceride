@@ -1,0 +1,29 @@
+{
+  "id": "mabel-matiz",
+  "name": "Mabel Matiz (Fatih Karaca)",
+  "category": "sanat",
+  "currentStatus": "beraat",
+  "case": "perperisan-mustehcenlik-davasi",
+  "summary": "Şarkıcı Mabel Matiz, 'Perperişan' şarkısının sözleri nedeniyle 'müstehcen yayınların yayımlanmasına aracılık etmek' suçlamasıyla 6 aydan 3 yıla kadar hapis istemiyle tutuksuz yargılandı; 8 Mayıs 2026'da beraat etti.",
+  "events": [
+    {
+      "date": "2026-01-09",
+      "type": "durusma",
+      "description": "'Perperişan' şarkısının sözlerinde müstehcen ifadeler bulunduğu iddiasıyla açılan davada İstanbul 54. Asliye Ceza Mahkemesinde tutuksuz sanık olarak ilk kez hakim karşısına çıktı; duruşma 27 Mart 2026'ya ertelendi.",
+      "sources": [
+        { "url": "https://www.mlsaturkey.com/tr/mabelmatiz-ilkdurusma", "outlet": "MLSA Turkey", "date": "2026-01-09" },
+        { "url": "https://www.takvim.com.tr/guncel/2026/01/09/mabel-matiz-mustehcenlik-suclamasiyla-hakim-karsisinda", "outlet": "Takvim", "date": "2026-01-09" }
+      ]
+    },
+    {
+      "date": "2026-05-08",
+      "type": "beraat",
+      "description": "İstanbul 54. Asliye Ceza Mahkemesi, suçun yasal unsurlarının oluşmadığı gerekçesiyle beraat kararı verdi.",
+      "sources": [
+        { "url": "https://www.dha.com.tr/gundem/mabel-matiz-hakkinda-mustehcenlik-davasinda-beraat-karari-2869076", "outlet": "DHA", "date": "2026-05-08" },
+        { "url": "https://www.takvim.com.tr/magazin/2026/05/08/mabel-matize-mustehcenlik-davasinda-beraat", "outlet": "Takvim", "date": "2026-05-08" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

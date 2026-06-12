@@ -1,0 +1,36 @@
+{
+  "id": "kemal-can",
+  "name": "Kemal Can",
+  "category": "is",
+  "currentStatus": "adli-kontrol",
+  "case": "can-holding-sorusturmasi",
+  "summary": "Can Holding Yönetim Kurulu Başkanı Kemal Can, holdinge yönelik suç örgütü ve kara para aklama iddialı soruşturma kapsamında Eylül 2025'te tutuklandı; Nisan 2026'da ev hapsi şeklinde adli kontrol tedbiriyle tahliye edildi.",
+  "events": [
+    {
+      "date": "2025-09-11",
+      "type": "gozalti",
+      "description": "Can Holding'e yönelik 'suç örgütü kurma, vergi kaçakçılığı, dolandırıcılık ve suç gelirlerinin aklanması' iddialarıyla yürütülen soruşturmada Kemal Can'ın da aralarında olduğu yöneticiler hakkında gözaltı kararı verildi; Habertürk ve Show TV dahil 121 şirkete el konularak TMSF kayyum atandı.",
+      "sources": [
+        { "url": "https://www.hurriyet.com.tr/gundem/son-dakika-can-holdinge-operasyon-haberturk-ve-show-tvye-el-konuldu-8-gozalti-karari-42944506", "outlet": "Hürriyet", "date": "2025-09-11" },
+        { "url": "https://t24.com.tr/haber/can-holding-e-operasyon-yoneticileri-gozaltina-alindi-haberturk-ve-show-tv-dahil-121-sirkete-el-kondu,1260731", "outlet": "T24", "date": "2025-09-11" }
+      ]
+    },
+    {
+      "date": "2025-09-28",
+      "type": "tutuklama",
+      "description": "Can Holding Yönetim Kurulu Başkanı Kemal Can, 'suç işlemek amacıyla örgüt kurma ve yönetme, mal varlığı değerlerini aklama ve nitelikli dolandırıcılık' suçlamalarıyla tutuklandı.",
+      "sources": [
+        { "url": "https://www.trthaber.com/haber/turkiye/can-holding-yonetim-kurulu-baskani-kemal-can-tutuklandi-921144.html", "outlet": "TRT Haber", "date": "2025-09-28" }
+      ]
+    },
+    {
+      "date": "2026-04-02",
+      "type": "adli-kontrol",
+      "description": "Yaklaşık altı ay tutuklu kaldıktan sonra ev hapsi şeklinde adli kontrol tedbiri uygulanarak tahliye edildi; soruşturma devam ediyor.",
+      "sources": [
+        { "url": "https://www.takvim.com.tr/guncel/2026/04/02/can-holding-sorusturmasinda-ev-hapsi-sarti-kemal-can-tahliye-edildi", "outlet": "Takvim", "date": "2026-04-02" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}
