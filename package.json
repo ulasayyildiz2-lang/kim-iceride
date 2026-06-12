@@ -8,13 +8,16 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
-    "preview": "astro preview",
+    "preview": "npm run build && wrangler dev",
     "astro": "astro",
     "validate": "tsx scripts/validate.ts",
     "scan:dry": "tsx scripts/scan.ts --dry-run",
-    "scan": "tsx scripts/scan.ts --apply"
+    "scan": "tsx scripts/scan.ts --apply",
+    "generate-types": "wrangler types",
+    "deploy": "npm run build && wrangler deploy"
   },
   "dependencies": {
+    "@astrojs/cloudflare": "^13.7.0",
     "@tailwindcss/vite": "^4.3.0",
     "astro": "^6.4.6",
     "chart.js": "^4.5.1",
@@ -25,6 +28,10 @@
   "devDependencies": {
     "@anthropic-ai/sdk": "^0.104.1",
     "pagefind": "^1.5.2",
-    "tsx": "^4.22.4"
+    "tsx": "^4.22.4",
+    "wrangler": "^4.100.0"
+  },
+  "overrides": {
+    "vite": "^7"
   }
 }
