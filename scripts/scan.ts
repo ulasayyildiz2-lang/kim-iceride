@@ -190,10 +190,6 @@ KURALLAR:
 8. Hiç uygun gelişme yoksa boş liste döndür.`;
 
 async function extractProposals(news: NewsItem[]): Promise<Proposal[]> {
-  if (!process.env.ANTHROPIC_API_KEY) {
-    console.error("ANTHROPIC_API_KEY tanımlı değil.");
-    process.exit(1);
-  }
   const client = new Anthropic();
 
   const newsBlock = news
@@ -303,6 +299,15 @@ function buildPrBody(proposals: Proposal[], applied: string[], lowConfidence: Pr
 // ---- main --------------------------------------------------------------------
 
 async function main() {
+  if (!process.env.ANTHROPIC_API_KEY) {
+    console.error(
+      "HATA: ANTHROPIC_API_KEY tanımlı değil.\n" +
+        "GitHub'da: repo → Settings → Secrets and variables → Actions → " +
+        "'New repository secret' → Name: ANTHROPIC_API_KEY",
+    );
+    process.exit(1);
+  }
+
   console.log(`Tarama başlıyor (${DRY_RUN ? "dry-run" : "apply"} modu), ${people.length} kişi takipte.`);
 
   const news = await fetchNews();
