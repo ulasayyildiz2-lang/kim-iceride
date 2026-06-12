@@ -2,9 +2,9 @@
   "id": "erden-timur",
   "name": "Erden Timur",
   "category": "spor",
-  "currentStatus": "tutuklu",
+  "currentStatus": "adli-kontrol",
   "case": "futbol-bahis-sorusturmasi",
-  "summary": "Galatasaray eski başkan vekili Erden Timur, futbolda bahis soruşturmasından ayrılan dosyada 'suçtan kaynaklanan malvarlığı değerlerini aklama' iddiasıyla tutuklandı.",
+  "summary": "Galatasaray eski başkan vekili Erden Timur, futbolda bahis soruşturmasından ayrılan dosyada 'suçtan kaynaklanan malvarlığı değerlerini aklama' iddiasıyla tutuklandı; yaklaşık altı ay tutukluluğun ardından Haziran 2026'da adli kontrol şartıyla tahliye edildi.",
   "events": [
     {
       "date": "2025-12-29",
@@ -13,6 +13,15 @@
       "sources": [
         { "url": "https://tr.euronews.com/2025/12/29/futbolda-bahis-sorusturmasi-dosyasi-ayrilan-erden-timur-tutuklandi", "outlet": "Euronews Türkçe", "date": "2025-12-29" },
         { "url": "https://www.birgun.net/haber/futbolda-bahis-ve-kara-para-sorusturmasi-erden-timur-ve-18-kisiye-tutuklama-680067", "outlet": "BirGün", "date": "2025-12-29" }
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "type": "adli-kontrol",
+      "description": "Yaklaşık altı aylık tutukluluğun ardından yurt dışına çıkış yasağı ve imza yükümlülüğü şeklinde adli kontrol tedbiriyle tahliye edildi.",
+      "sources": [
+        { "url": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-erden-timur-hakkinda-tahliye-karari-2511349", "outlet": "Cumhuriyet", "date": "2026-06-11" },
+        { "url": "https://www.hurriyet.com.tr/gundem/erden-timur-tahliye-edildi-43201819", "outlet": "Hürriyet", "date": "2026-06-11" }
       ]
     }
   ],
