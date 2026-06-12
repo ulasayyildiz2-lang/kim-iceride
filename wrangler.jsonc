@@ -1,0 +1,10 @@
+{
+  // Cloudflare Workers — statik varlık (static assets) yayını.
+  // `npm run build` Astro çıktısını dist/ klasörüne üretir; wrangler bunu yayınlar.
+  // Worker adı paneldeki mevcut worker ile birebir aynı olmalı: kim-iceride
+  "name": "kim-iceride",
+  "compatibility_date": "2025-06-01",
+  "assets": {
+    "directory": "./dist"
+  }
+}
