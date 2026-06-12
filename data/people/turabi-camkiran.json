@@ -2,9 +2,9 @@
   "id": "turabi-camkiran",
   "name": "Turabi Çamkıran",
   "category": "sanat",
-  "currentStatus": "serbest",
+  "currentStatus": "tutuksuz-yargilaniyor",
   "case": null,
-  "summary": "Survivor yarışmasıyla tanınan Turabi Çamkıran hakkında, 'Wine Me, Dine Me' şarkısının içeriği nedeniyle 'müstehcenlik' suçlamasıyla soruşturma başlatıldı ve yakalama kararı çıkarıldı.",
+  "summary": "Survivor yarışmasıyla tanınan Turabi Çamkıran hakkında Şubat 2025'te 'Wine Me, Dine Me' şarkısının içeriği nedeniyle 'müstehcenlik' soruşturması açıldı; ayrıca Haziran 2025'te bir polis memurunun şehit edildiği silahlı saldırıda kullanılan silahın izinin sürülmesiyle açılan davanın iddianamesinde 'ruhsatsız ateşli silah temini' kapsamında yer aldı ve tutuksuz yargılanıyor.",
   "events": [
     {
       "date": "2025-02-05",
@@ -13,6 +13,15 @@
       "sources": [
         { "url": "https://www.aa.com.tr/tr/gundem/turabi-camkiran-hakkinda-mustehcenlik-sucundan-sorusturma-baslatildi/3472836", "outlet": "Anadolu Ajansı", "date": "2025-02-05" },
         { "url": "https://www.cumhuriyet.com.tr/turkiye/sarkisi-tartisma-yaratmisti-turabi-camkiran-hakkinda-sorusturma-2296639", "outlet": "Cumhuriyet", "date": "2025-02-05" }
+      ]
+    },
+    {
+      "date": "2025-06-10",
+      "type": "iddianame",
+      "description": "25 Ağustos 2023'te Kağıthane'de polis memuru Hakan Telli'nin şehit edildiği silahlı saldırıda kullanılan silahın izinin sürülmesiyle hazırlanan iddianamede Çamkıran'a da yer verildi; 43 sanıklı davada 'ruhsatsız ateşli silah temini' kapsamında suçlanan Çamkıran için 22 yıl 6 aya kadar hapis istendi, tutuksuz yargılanıyor.",
+      "sources": [
+        { "url": "https://www.memurlar.net/haber/1137849/polisin-sehit-edildigi-olayda-iddianame-hazir-survivor-turabi-de-saniklar-arasinda.html", "outlet": "Memurlar.net", "date": "2025-06-10" },
+        { "url": "https://www.ilkhaber-gazetesi.com/genel/sehit-polis-sorusturmasinda-turabi-camkiran-iddianamede-yer-aldi-291483", "outlet": "İlkhaber Gazetesi", "date": "2025-06-10" }
       ]
     }
   ],

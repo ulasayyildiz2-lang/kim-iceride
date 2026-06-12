@@ -4,7 +4,7 @@
   "category": "siyaset",
   "currentStatus": "tutuklu",
   "case": "kobani-davasi",
-  "summary": "HDP eski milletvekili ve genel sekreter yardımcısı; Kobani davası kapsamında 22 yıl 6 ay hapis cezası aldı ve halen tutuklu bulunuyor.",
+  "summary": "HDP eski milletvekili ve genel sekreter yardımcısı; Kobani davası kapsamında 22 yıl 6 ay hapis cezası aldı ve halen tutuklu bulunuyor. Dava Eylül 2025'te istinafa taşındı.",
   "events": [
     {
       "date": "2024-05-16",
@@ -20,6 +20,15 @@
       "description": "AİHM kararı sonrası Kobani davası tutuklularının tahliye talepleri, mahkemece 'AİHM kararının kesinleşmediği' gerekçesiyle reddedildi; Gür'ün tutukluluğu sürüyor.",
       "sources": [
         { "url": "https://t24.com.tr/haber/demirtas-ve-kobani-davasi-saniklarinin-tahliye-talebini-mahkeme-aihm-kararina-ragmen-geri-cevirdi-aihm-karari-kesinlesmedi,1250617", "outlet": "T24", "date": "2025-07-19" }
+      ]
+    },
+    {
+      "date": "2025-09-26",
+      "type": "diger",
+      "description": "Kobani davasının gerekçeli kararının açıklanmasının ardından dosya Ankara Bölge Adliye Mahkemesi'ne (istinaf) gönderildi; 22 yıl 6 ay hapis cezası alan Gür de tutuklu siyasetçiler arasında olup avukatlar tahliye başvurusunda bulunacaklarını açıkladı.",
+      "sources": [
+        { "url": "https://bianet.org/haber/demirtas-ve-yuksekdag-in-da-yargilandigi-kobani-davasi-istinafta-tahliye-karari-cikabilir-311971", "outlet": "Bianet", "date": "2025-09-26" },
+        { "url": "https://www.cumhuriyet.com.tr/turkiye/kobani-davasi-istinafta-tahliye-karari-cikabilir-2438608", "outlet": "Cumhuriyet", "date": "2025-09-26" }
       ]
     }
   ],

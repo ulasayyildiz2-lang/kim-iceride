@@ -4,7 +4,7 @@
   "category": "siyaset",
   "currentStatus": "tutuklu",
   "case": null,
-  "summary": "CHP'li Beykoz Belediye Başkanı. Şubat 2025'te ihaleye fesat ve örgüt iddialarıyla gözaltına alındı; tahliyenin ardından kısa süre sonra yeniden tutuklandı ve tutuklu yargılanıyor.",
+  "summary": "Görevden uzaklaştırılan CHP'li Beykoz Belediye Başkanı Alaattin Köseler, Beykoz Belediyesi yolsuzluk davası kapsamında tutuklu yargılanıyor. 5 Haziran 2026'daki duruşmada savcılık esas hakkındaki mütalaasını açıkladı ve Köseler için 25 yıldan 77 yıl 9 aya kadar hapis ile tutukluluğunun devamını talep etti.",
   "events": [
     {
       "date": "2025-02-27",
@@ -28,6 +28,15 @@
       "description": "Tahliye edilmesinin ardından savcılık itirazının kabulüyle yaklaşık 30 saat sonra yeniden tutuklandı.",
       "sources": [
         { "url": "https://www.diken.com.tr/dun-tahliye-edilmisti-beykoz-belediye-baskani-alaattin-koseler-tutuklandi/", "outlet": "Diken", "date": "2025-09-06" }
+      ]
+    },
+    {
+      "date": "2026-06-05",
+      "type": "durusma",
+      "description": "Beykoz Belediyesi yolsuzluk davasında savcılık esas hakkındaki mütalaasını açıkladı; Köseler hakkında örgüt kurma, ihaleye fesat ve nitelikli dolandırıcılık iddialarıyla 25 yıldan 77 yıl 9 aya kadar hapis ve tutukluluğun devamı talep edildi. Mahkeme tutukluluğun devamına karar verip duruşmayı 13 Temmuz 2026'ya erteledi.",
+      "sources": [
+        { "url": "https://www.diken.com.tr/beykoz-belediyesi-davasinda-mutalaa-alaattin-koselere-77-yil-hapis-talebi/", "outlet": "Diken", "date": "2026-06-05" },
+        { "url": "https://t24.com.tr/gundem/beykoz-belediyesi-davasi-savcidan-baskan-alaattin-koseler-in-tutukluluguna-devam-talebi,1326690", "outlet": "T24", "date": "2026-06-05" }
       ]
     }
   ],

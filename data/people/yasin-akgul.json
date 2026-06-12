@@ -2,9 +2,9 @@
   "id": "yasin-akgul",
   "name": "Yasin Akgül",
   "category": "medya",
-  "currentStatus": "tutuksuz-yargilaniyor",
+  "currentStatus": "beraat",
   "case": "sarachane-protesto-davasi",
-  "summary": "AFP foto muhabiri Yasin Akgül, İmamoğlu'nun tutuklanmasının ardından Saraçhane'deki protestoları görüntülerken gözaltına alındı; kısa süre tutuklu kaldıktan sonra tahliye edildi ve tutuksuz yargılanıyor.",
+  "summary": "AFP foto muhabiri Yasin Akgül, İmamoğlu'nun tutuklanmasının ardından Saraçhane'deki protestoları görüntülerken gözaltına alınıp kısa süre tutuklandı; 'kanuna aykırı toplantı ve gösteri yürüyüşlerine katılma' suçlamasıyla yargılandığı davada Kasım 2025'te beraat etti.",
   "events": [
     {
       "date": "2025-03-24",
@@ -36,6 +36,15 @@
       "description": "Akgül ve üç gazetecinin protesto haberciliği nedeniyle görülen davasının duruşması 27 Kasım'a ertelendi.",
       "sources": [
         { "url": "https://www.turkishminute.com/2025/10/24/turkish-court-adjourns-trial-of-afp-photographer-and-3-other-journalists-over-protest-coverage/", "outlet": "Turkish Minute", "date": "2025-10-24" }
+      ]
+    },
+    {
+      "date": "2025-11-27",
+      "type": "beraat",
+      "description": "19 Mart sonrası Saraçhane protestolarını takip ederken gözaltına alındığı '2911 sayılı Kanuna aykırı toplantı ve gösteri yürüyüşlerine katılma' davasında İstanbul 62. Asliye Ceza Mahkemesi tarafından beraat etti; aynı davada Bülent Kılıç dahil 8 gazeteci ve 4 avukat beraat etti.",
+      "sources": [
+        { "url": "https://www.cumhuriyet.com.tr/turkiye/sarachane-protestolarini-takip-eden-8-gazeteci-ve-4-avukat-beraat-etti-2456312", "outlet": "Cumhuriyet", "date": "2025-11-27" },
+        { "url": "https://expressioninterrupted.com/tr/sarachane-davasinda-8-gazeteciye-beraat/", "outlet": "Expression Interrupted", "date": "2025-11-27" }
       ]
     }
   ],

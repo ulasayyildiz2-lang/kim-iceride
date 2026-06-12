@@ -4,7 +4,7 @@
   "category": "is",
   "currentStatus": "tutuklu",
   "case": "ibb-sorusturmasi",
-  "summary": "Reklam ve medya sektöründen iş insanı; İBB yolsuzluk soruşturması kapsamında tutuklandı, bir süre etkin pişmanlıktan yararlandı ancak 2026'da ifadelerini geri çekti ve tutuklu yargılanmaya devam ediyor.",
+  "summary": "Reklam ve medya sektöründen iş insanı; İBB yolsuzluk soruşturması kapsamında tutuklandı, bir süre etkin pişmanlıktan yararlandı ancak 2026'da ifadelerini geri çekti ve tutuklu yargılanmaya devam ediyor. 21 Mayıs 2026'daki celsede 9 sanık tahliye edilirken Kapki tahliye edilmedi.",
   "events": [
     {
       "date": "2025-03-19",
@@ -37,6 +37,15 @@
       "description": "İBB davasında tutuklu sanık olarak savunma yaptı; etkin pişmanlık ifadelerinin doğru olmadığını yineledi.",
       "sources": [
         { "url": "https://medyascope.tv/2026/05/14/ibb-davasi-savcilik-tarafindan-yonlendirildim-diyen-murat-kapki-savunma-yapti/", "outlet": "Medyascope", "date": "2026-05-14" }
+      ]
+    },
+    {
+      "date": "2026-05-21",
+      "type": "durusma",
+      "description": "İBB davasının 41. celsesinde mahkeme 9 sanığın tahliyesine karar verdi; Murat Kapki tahliye edilenler arasında yer almadı ve tutukluluğu devam etti. Sonraki tutukluluk değerlendirmesi 18 Haziran 2026 olarak belirlendi.",
+      "sources": [
+        { "url": "https://bianet.org/haber/ibb-davasinda-9-kisi-hakkinda-tahliye-karari-319797", "outlet": "Bianet", "date": "2026-05-21" },
+        { "url": "https://www.cumhuriyet.com.tr/turkiye/ibb-davasi-nda-41-gun-bayram-oncesi-tahliyeler-bekleniyor-2505737", "outlet": "Cumhuriyet", "date": "2026-05-21" }
       ]
     }
   ],

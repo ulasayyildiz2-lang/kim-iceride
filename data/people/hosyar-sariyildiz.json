@@ -2,9 +2,9 @@
   "id": "hosyar-sariyildiz",
   "name": "Hoşyar Sarıyıldız",
   "category": "siyaset",
-  "currentStatus": "adli-kontrol",
+  "currentStatus": "tutuksuz-yargilaniyor",
   "case": "kayyum-belediyeler",
-  "summary": "DEM Parti'li Mersin Akdeniz Belediyesi Eş Başkanı; terör soruşturması kapsamında tutuklandı ve yerine kayyum atandı, yaklaşık 10 ay sonra adli kontrol tedbiriyle tahliye edildi.",
+  "summary": "DEM Parti'li Mersin Akdeniz Belediyesi Eş Başkanı; terör soruşturması kapsamında tutuklandı ve yerine kayyum atandı, yaklaşık 10 ay sonra adli kontrol tedbiriyle tahliye edildi. Ocak 2026'da adli kontrol tedbiri de kaldırıldı; tutuksuz yargılanıyor.",
   "events": [
     {
       "date": "2025-01-10",
@@ -30,6 +30,14 @@
       "sources": [
         { "url": "https://www.hurriyet.com.tr/gundem/tutuklu-eski-akdeniz-belediye-baskani-ve-meclis-uyelerine-tahliye-43004058", "outlet": "Hürriyet", "date": "2025-11-01" },
         { "url": "https://gazeteoksijen.com/turkiye/akdeniz-belediyesi-es-baskanlarina-10-ay-sonra-tahliye-255608", "outlet": "Gazete Oksijen", "date": "2025-11-01" }
+      ]
+    },
+    {
+      "date": "2026-01-16",
+      "type": "diger",
+      "description": "Mersin 2. Ağır Ceza Mahkemesi, 16 Ocak 2026 tarihli duruşmada Sarıyıldız ve diğer sanıklar hakkındaki adli kontrol (yurt dışı çıkış yasağı) tedbirini kaldırdı; duruşma ileri bir tarihe ertelendi, Sarıyıldız tutuksuz yargılanmaya devam ediyor.",
+      "sources": [
+        { "url": "https://artigercek.com/politika/akdeniz-belediyesi-esbaskanlarinin-durusmasi-ertelendi-342214h", "outlet": "Artı Gerçek", "date": "2026-01-16" }
       ]
     }
   ],

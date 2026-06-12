@@ -4,7 +4,7 @@
   "category": "stk",
   "currentStatus": "hukumlu",
   "case": "gezi-davasi",
-  "summary": "Şehir plancısı; Gezi davasında 18 yıl hapis cezasına çarptırıldı ve Anayasa Mahkemesi'nin lehine verdiği hak ihlali kararına rağmen cezaevinde tutuluyor.",
+  "summary": "Şehir plancısı; Gezi davasında 18 yıl hapis cezasına çarptırıldı ve Anayasa Mahkemesi'nin lehine verdiği iki ayrı hak ihlali kararına rağmen cezaevinde tutuluyor.",
   "events": [
     {
       "date": "2022-04-25",
@@ -29,6 +29,15 @@
       "description": "Anayasa Mahkemesi Genel Kurulu, Kahraman'ın bireysel başvurusunda adil yargılanma hakkının ihlal edildiğine ve yeniden yargılama yapılması gerektiğine hükmetti; karar uygulanmadı.",
       "sources": [
         { "url": "https://medyascope.tv/2026/05/14/tayfun-kahraman-kimdir/", "outlet": "Medyascope", "date": "2026-05-14" }
+      ]
+    },
+    {
+      "date": "2026-04-02",
+      "type": "diger",
+      "description": "Anayasa Mahkemesi, 31 Temmuz 2025 tarihli ilk ihlal ve yeniden yargılama kararının uygulanmaması üzerine oy birliğiyle ikinci kez ihlal kararı verdi; bireysel başvuru hakkı ile adil yargılanma hakkının ihlal edildiğine hükmetti.",
+      "sources": [
+        { "url": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-aym-den-tayfun-kahraman-karari-yeniden-ihlal-karari-2491892", "outlet": "Cumhuriyet", "date": "2026-04-02" },
+        { "url": "https://haber.sol.org.tr/haber/aym-tayfun-kahraman-hakkinda-oy-birligiyle-yeniden-ihlal-karari-verdi-408089", "outlet": "soL", "date": "2026-04-02" }
       ]
     }
   ],

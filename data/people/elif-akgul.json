@@ -2,9 +2,9 @@
   "id": "elif-akgul",
   "name": "Elif Akgül",
   "category": "medya",
-  "currentStatus": "tutuklu",
+  "currentStatus": "beraat",
   "case": "hdk-sorusturmasi",
-  "summary": "Eski Bianet editörü gazeteci Elif Akgül, HDK soruşturması kapsamında Şubat 2025'te tutuklandı; 'örgüt üyeliği' iddiasıyla yargılanıyor.",
+  "summary": "Eski Bianet editörü gazeteci Elif Akgül, HDK soruşturması kapsamında Şubat 2025'te tutuklandı, Haziran 2025'te tahliye edildi; 'silahlı terör örgütüne üye olmak' suçlamasıyla yargılandığı davada Ocak 2026'da beraat etti.",
   "events": [
     {
       "date": "2025-02-18",
@@ -28,6 +28,15 @@
       "description": "Akgül hakkında 'örgüt üyeliği' iddiasıyla açılan davanın ilk duruşması İstanbul 25. Ağır Ceza Mahkemesinde görüldü; dava 20 Ocak 2026'ya ertelendi.",
       "sources": [
         { "url": "https://expressioninterrupted.com/tr/gazeteci-elif-akgul-hakim-karsisina-cikti/", "outlet": "Expression Interrupted (MLSA)", "date": "2025-09-30" }
+      ]
+    },
+    {
+      "date": "2026-01-20",
+      "type": "beraat",
+      "description": "HDK soruşturması kapsamında 'silahlı terör örgütüne üye olmak' suçlamasıyla yargılandığı davada İstanbul 25. Ağır Ceza Mahkemesi, suçun işlendiğine dair yeterli delil bulunmadığına hükmederek beraatine karar verdi. Akgül 21 Şubat 2025'te tutuklanmış, 2 Haziran 2025'te tahliye edilmişti.",
+      "sources": [
+        { "url": "https://www.mlsaturkey.com/tr/gazeteci-elif-akgul-ve-mehmet-saltoglu-hdk-davasindan-beraat-etti", "outlet": "MLSA", "date": "2026-01-20" },
+        { "url": "https://www.birgun.net/haber/hdk-davasinda-yargilanan-gazeteci-elif-akgul-beraat-etti-685742", "outlet": "BirGün", "date": "2026-01-20" }
       ]
     }
   ],

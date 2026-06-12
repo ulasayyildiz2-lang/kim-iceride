@@ -4,7 +4,7 @@
   "category": "is",
   "currentStatus": "tutuksuz-yargilaniyor",
   "case": "aziz-ihsan-aktas-suc-orgutu-davasi",
-  "summary": "İş insanı Aziz İhsan Aktaş, belediye ihalelerine yönelik 'suç örgütü' soruşturması kapsamında Ocak 2025'te tutuklandı; etkin pişmanlık hükümlerinden yararlanarak Haziran 2025'te tahliye edildi ve 200 sanıklı davada tutuksuz yargılanıyor.",
+  "summary": "İş insanı Aziz İhsan Aktaş, belediye ihalelerine yönelik 'suç örgütü' soruşturması kapsamında Ocak 2025'te tutuklandı; etkin pişmanlık hükümlerinden yararlanarak Haziran 2025'te tahliye edildi ve 200 sanıklı davada tutuksuz yargılanıyor. 14 Mayıs 2026'da esas hakkında mütalaa açıklandı; karar duruşması 15 Haziran 2026'ya bırakıldı.",
   "events": [
     {
       "date": "2025-01-17",
@@ -46,6 +46,14 @@
       "description": "İstanbul 1. Ağır Ceza Mahkemesi'ndeki 19. duruşmada açıklanan ara kararla tutuklu sanıklardan 7'si tahliye edildi; yargılama devam ediyor.",
       "sources": [
         { "url": "https://bianet.org/haber/aziz-ihsan-aktas-davasinda-ara-karar-7-kisi-tahliye-edildi-belediye-baskanlari-tutuklu-317158", "outlet": "Bianet", "date": "2026-02-27" }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "type": "durusma",
+      "description": "Silivri'de görülen duruşmada esas hakkında mütalaa açıklandı; savcılık örgüt kurma ve yönetme suçundan ceza talep etti, bazı eylemlerden beraat istedi. Ara kararla 4 sanık tahliye edildi, karar duruşması 15 Haziran 2026'ya bırakıldı; Aktaş tutuksuz yargılanmaya devam ediyor.",
+      "sources": [
+        { "url": "https://www.cumhuriyet.com.tr/turkiye/cumhuriyet-silivri-den-bildiriyor-aziz-ihsan-aktas-davasi-mutalaa-aciklandi-2503642", "outlet": "Cumhuriyet", "date": "2026-05-14" }
       ]
     }
   ],

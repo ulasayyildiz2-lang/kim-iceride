@@ -4,7 +4,7 @@
   "category": "medya",
   "currentStatus": "adli-kontrol",
   "case": null,
-  "summary": "BirGün gazetesi muhabiri ve yazarı Timur Soykan, sosyal medya paylaşımları nedeniyle 5 Temmuz 2025'te gözaltına alındı; ertesi gün adli kontrol şartıyla serbest bırakıldı.",
+  "summary": "BirGün gazetesi muhabiri ve yazarı Timur Soykan, sosyal medya paylaşımları nedeniyle Temmuz 2025'te gözaltına alınıp adli kontrolle serbest bırakıldı. Halk TV'deki programındaki açıklamaları nedeniyle yargılandığı ayrı davada Nisan 2026'da 'haberleşmenin gizliliğini ihlal' suçundan 10 ay hapis cezası aldı; hükmün açıklanması geri bırakıldı (HAGB), diğer suçlamalardan beraat etti.",
   "events": [
     {
       "date": "2025-07-05",
@@ -21,6 +21,15 @@
       "description": "Tutuklama talebiyle mahkemeye sevk edilen Soykan, yurt dışı yasağı ve imza şartını içeren adli kontrolle serbest bırakıldı.",
       "sources": [
         { "url": "https://medyascope.tv/2025/07/06/timur-soykan-serbest-birakildi/", "outlet": "Medyascope", "date": "2025-07-06" }
+      ]
+    },
+    {
+      "date": "2026-04-14",
+      "type": "mahkumiyet",
+      "description": "Halk TV'deki 'Kayda Geçsin' programındaki açıklamaları nedeniyle yargılandığı davada İstanbul Bakırköy 34. Asliye Ceza Mahkemesi, 'haberleşmenin gizliliğini ihlal' suçundan 10 ay hapis cezası verip hükmün açıklanmasının geri bırakılmasına (HAGB) karar verdi; 'halkı yanıltıcı bilgiyi alenen yayma' ve 'dini değerleri aşağılama' suçlamalarından beraat etti.",
+      "sources": [
+        { "url": "https://bianet.org/haber/timur-soykan-baris-pehlivan-ve-murat-agirele-hapis-cezasi-318715", "outlet": "Bianet", "date": "2026-04-14" },
+        { "url": "https://www.cumhuriyet.com.tr/siyaset/baris-pehlivan-murat-agirel-ve-timur-soykan-a-hapis-cezasi-asagidaki-sozleri-soyledigim-icin-2495205", "outlet": "Cumhuriyet", "date": "2026-04-14" }
       ]
     }
   ],

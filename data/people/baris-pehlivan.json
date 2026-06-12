@@ -2,9 +2,9 @@
   "id": "baris-pehlivan",
   "name": "Barış Pehlivan",
   "category": "medya",
-  "currentStatus": "adli-kontrol",
+  "currentStatus": "tutuksuz-yargilaniyor",
   "case": null,
-  "summary": "Gazeteci Barış Pehlivan, İmamoğlu'nun bilirkişiyle görüşmesinin yayımlanmasına ilişkin 'bilirkişi' soruşturmasında Ocak 2025'te gözaltına alındı; adli kontrolle serbest bırakıldı, bağlantılı davada ilk duruşmada beraat etti.",
+  "summary": "Gazeteci Barış Pehlivan, İmamoğlu'nun bilirkişiyle görüşmesinin yayımlanmasına ilişkin 'bilirkişi' soruşturmasında Ocak 2025'te gözaltına alınıp adli kontrolle serbest bırakıldı. Halk TV'deki programındaki açıklamaları nedeniyle yargılandığı ayrı davada Nisan 2026'da 'halkı yanıltıcı bilgiyi alenen yayma' suçundan 1 yıl 3 ay hapis cezası aldı; karar istinaf yolu açık ilk derece kararıdır ve tutuksuz yargılanıyor.",
   "events": [
     {
       "date": "2025-01-28",
@@ -28,6 +28,15 @@
       "description": "'Yargı görevini etkileme' suçundan açılan davada Pehlivan ve diğer gazeteciler ilk duruşmada beraat etti.",
       "sources": [
         { "url": "https://www.izgazete.net/halk-tv-davasinda-son-durum-baris-pehlivana-kac-yil-hapis-isteniyor-baris-pehlivan-kimdir", "outlet": "İz Gazete", "date": "2025-05-01" }
+      ]
+    },
+    {
+      "date": "2026-04-14",
+      "type": "mahkumiyet",
+      "description": "Halk TV'deki 'Kayda Geçsin' programındaki açıklamaları nedeniyle yargılandığı davada İstanbul Bakırköy 34. Asliye Ceza Mahkemesi, 'halkı yanıltıcı bilgiyi alenen yayma' suçundan 1 yıl 3 ay hapis cezası verdi; 'haberleşmenin gizliliğini ihlal' suçundan beraat etti. Karar istinaf yolu açık ilk derece mahkemesi kararıdır.",
+      "sources": [
+        { "url": "https://bianet.org/haber/timur-soykan-baris-pehlivan-ve-murat-agirele-hapis-cezasi-318715", "outlet": "Bianet", "date": "2026-04-14" },
+        { "url": "https://www.cumhuriyet.com.tr/siyaset/baris-pehlivan-murat-agirel-ve-timur-soykan-a-hapis-cezasi-asagidaki-sozleri-soyledigim-icin-2495205", "outlet": "Cumhuriyet", "date": "2026-04-14" }
       ]
     }
   ],

@@ -4,7 +4,7 @@
   "category": "stk",
   "currentStatus": "hukumlu",
   "case": "gezi-davasi",
-  "summary": "İş insanı ve sivil toplum aktivisti; Gezi davasında hükümeti ortadan kaldırmaya teşebbüs suçundan ağırlaştırılmış müebbet hapis cezasına çarptırıldı ve 2017'den bu yana cezaevinde bulunuyor.",
+  "summary": "İş insanı ve sivil toplum aktivisti; Gezi davasında hükümeti ortadan kaldırmaya teşebbüs suçundan ağırlaştırılmış müebbet hapis cezasına çarptırıldı ve 2017'den bu yana cezaevinde bulunuyor. Avrupa Konseyi Bakanlar Komitesi, Haziran 2026'da derhal serbest bırakılması çağrısını yineledi.",
   "events": [
     {
       "date": "2022-04-25",
@@ -29,6 +29,14 @@
       "description": "AİHM Büyük Dairesi, Kavala dosyası kapsamında duruşma yaptı; hükümet temsilcilerinin de katıldığı oturumda taraflara ek görüş için 15 gün süre verildi.",
       "sources": [
         { "url": "https://www.cumhuriyet.com.tr/siyaset/aihm-buyuk-dairesi-osman-kavala-icin-toplaniyor-2489406", "outlet": "Cumhuriyet", "date": "2026-03-25" }
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "type": "diger",
+      "description": "Avrupa Konseyi Bakanlar Komitesi, 9-11 Haziran 2026 toplantısında AİHM kararlarının uygulanmamasına ilişkin 'derin üzüntü' bildirdi ve Kavala'nın derhal serbest bırakılmasını istedi; Anayasa Mahkemesi'nden 31 Ağustos 2026 öncesi karar verilmesini, aksi halde Eylül 2026'da ek tedbirlerin gündeme geleceğini vurguladı.",
+      "sources": [
+        { "url": "https://yeniyasamgazetesi9.com/ak-bkden-yuksekdag-demirtas-ve-kavala-icin-karar-derhal-serbest-birakilmali/", "outlet": "Yeni Yaşam", "date": "2026-06-12" }
       ]
     }
   ],

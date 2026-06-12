@@ -4,7 +4,7 @@
   "category": "siyaset",
   "currentStatus": "tutuklu",
   "case": "kobani-davasi",
-  "summary": "HDP eski Eş Genel Başkanı; Kobani davası kapsamında 30 yıl 3 ay hapis cezası aldı ve halen tutuklu olarak Kandıra Cezaevi'nde bulunuyor.",
+  "summary": "HDP eski Eş Genel Başkanı; Kobani davası kapsamında 30 yıl 3 ay hapis cezası aldı ve halen tutuklu bulunuyor. Dava Eylül 2025'te istinafa taşındı; Avrupa Konseyi Bakanlar Komitesi, Haziran 2026'da derhal serbest bırakılması çağrısını yineledi.",
   "events": [
     {
       "date": "2024-05-16",
@@ -21,6 +21,23 @@
       "description": "AİHM'in Temmuz 2025 kararının ardından yapılan tahliye başvurusu, mahkemece 'AİHM kararının kesinleşmediği' gerekçesiyle reddedildi.",
       "sources": [
         { "url": "https://t24.com.tr/haber/demirtas-ve-kobani-davasi-saniklarinin-tahliye-talebini-mahkeme-aihm-kararina-ragmen-geri-cevirdi-aihm-karari-kesinlesmedi,1250617", "outlet": "T24", "date": "2025-07-19" }
+      ]
+    },
+    {
+      "date": "2025-09-26",
+      "type": "diger",
+      "description": "Kobani davasının gerekçeli kararının açıklanmasının ardından dosya, Ankara 22. Ağır Ceza Mahkemesi'nden Ankara Bölge Adliye Mahkemesi'ne (istinaf) gönderildi; avukatlar tutuklu siyasetçiler için tahliye başvurusunda bulunacaklarını açıkladı.",
+      "sources": [
+        { "url": "https://bianet.org/haber/demirtas-ve-yuksekdag-in-da-yargilandigi-kobani-davasi-istinafta-tahliye-karari-cikabilir-311971", "outlet": "Bianet", "date": "2025-09-26" },
+        { "url": "https://www.cumhuriyet.com.tr/turkiye/kobani-davasi-istinafta-tahliye-karari-cikabilir-2438608", "outlet": "Cumhuriyet", "date": "2025-09-26" }
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "type": "diger",
+      "description": "Avrupa Konseyi Bakanlar Komitesi, 9-11 Haziran 2026 toplantısında Yüksekdağ'ın da AİHM kararı uyarınca derhal serbest bırakılmasını talep etti ve Anayasa Mahkemesi ile Bölge Adliye Mahkemesi'nden gecikmeksizin karar istedi.",
+      "sources": [
+        { "url": "https://yeniyasamgazetesi9.com/ak-bkden-yuksekdag-demirtas-ve-kavala-icin-karar-derhal-serbest-birakilmali/", "outlet": "Yeni Yaşam", "date": "2026-06-12" }
       ]
     }
   ],
