@@ -109,15 +109,24 @@ for (const { file, json } of readJsonFiles(PEOPLE_DIR)) {
     }
   }
 
-  // Beyan edilen durum, olaylardan türetilen durumla çelişmemeli
+  // Beyan edilen durum, olaylardan türetilen durumla çelişmemeli.
+  // İstisna: mahkumiyet/beraat (hukumlu/beraat) bir kişinin fiziken içeride olup
+  // olmadığını tek başına belirlemez — istinaf/temyiz aşamasında tahliye edilmiş
+  // ya da hükmü ertelenmiş olabilir. Bu yüzden türetilen durum bir karar sonucuysa
+  // sert hata yerine uyarı verilir.
   const derived = deriveStatus(p.events);
-  if (derived && IN_CUSTODY.has(derived) !== IN_CUSTODY.has(p.currentStatus)) {
+  const convictionOutcome = derived === "hukumlu" || derived === "beraat";
+  if (
+    derived &&
+    !convictionOutcome &&
+    IN_CUSTODY.has(derived) !== IN_CUSTODY.has(p.currentStatus)
+  ) {
     errors.push(
       `people/${file}: currentStatus "${p.currentStatus}" ile olaylardan türetilen durum "${derived}" çelişiyor`,
     );
   } else if (derived && derived !== p.currentStatus) {
     warnings.push(
-      `people/${file}: currentStatus "${p.currentStatus}", türetilen durum "${derived}" (aynı grup, bilgi amaçlı)`,
+      `people/${file}: currentStatus "${p.currentStatus}", türetilen durum "${derived}" (bilgi amaçlı)`,
     );
   }
 }

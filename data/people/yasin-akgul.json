@@ -1,0 +1,43 @@
+{
+  "id": "yasin-akgul",
+  "name": "Yasin Akgül",
+  "category": "medya",
+  "currentStatus": "tutuksuz-yargilaniyor",
+  "case": "sarachane-protesto-davasi",
+  "summary": "AFP foto muhabiri Yasin Akgül, İmamoğlu'nun tutuklanmasının ardından Saraçhane'deki protestoları görüntülerken gözaltına alındı; kısa süre tutuklu kaldıktan sonra tahliye edildi ve tutuksuz yargılanıyor.",
+  "events": [
+    {
+      "date": "2025-03-24",
+      "type": "gozalti",
+      "description": "Yasin Akgül, sabah saatlerinde evine yapılan baskınla gözaltına alındı.",
+      "sources": [
+        { "url": "https://europeanjournalists.org/blog/2025/03/25/turkey-police-detained-at-least-11-journalists-in-dawn-raids-as-crackdown-escalates/", "outlet": "European Federation of Journalists", "date": "2025-03-25" }
+      ]
+    },
+    {
+      "date": "2025-03-25",
+      "type": "tutuklama",
+      "description": "Akgül, '2911 sayılı Toplantı ve Gösteri Yürüyüşleri Kanunu'na muhalefet' suçlamasıyla tutuklandı.",
+      "sources": [
+        { "url": "https://10haber.net/gundem/sarachane-gozaltilari-206-tutuklama-talebi-afp-muhabiri-yasin-akgul-tutuklandi-591685/", "outlet": "10Haber", "date": "2025-03-25" }
+      ]
+    },
+    {
+      "date": "2025-03-27",
+      "type": "tahliye",
+      "description": "Avukatlarının itirazı sonucu Akgül de aralarında olduğu yedi gazeteci tahliye edildi.",
+      "sources": [
+        { "url": "https://www.ekonomim.com/gundem/tutuklanan-yedi-gazeteciden-ucu-icin-tahliye-karari-verildi-haberi-808587", "outlet": "Ekonomim", "date": "2025-03-27" }
+      ]
+    },
+    {
+      "date": "2025-10-24",
+      "type": "durusma",
+      "description": "Akgül ve üç gazetecinin protesto haberciliği nedeniyle görülen davasının duruşması 27 Kasım'a ertelendi.",
+      "sources": [
+        { "url": "https://www.turkishminute.com/2025/10/24/turkish-court-adjourns-trial-of-afp-photographer-and-3-other-journalists-over-protest-coverage/", "outlet": "Turkish Minute", "date": "2025-10-24" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

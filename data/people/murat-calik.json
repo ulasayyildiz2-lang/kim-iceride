@@ -1,0 +1,35 @@
+{
+  "id": "murat-calik",
+  "name": "Mehmet Murat Çalık",
+  "category": "siyaset",
+  "currentStatus": "tutuklu",
+  "case": "ibb-sorusturmasi",
+  "summary": "CHP'li Beylikdüzü Belediye Başkanı. Mart 2025'te İBB soruşturması kapsamında tutuklandı; sağlık sorunlarına rağmen tutuklu yargılanıyor.",
+  "events": [
+    {
+      "date": "2025-03-19",
+      "type": "gozalti",
+      "description": "İstanbul Cumhuriyet Başsavcılığının İBB'ye yönelik yolsuzluk ve terör soruşturması kapsamında gözaltına alındı.",
+      "sources": [
+        { "url": "https://www.milliyet.com.tr/gundem/son-dakika-beylikduzu-belediye-baskani-mehmet-murat-calik-tutuklandi-7336160", "outlet": "Milliyet", "date": "2025-03-23" }
+      ]
+    },
+    {
+      "date": "2025-03-23",
+      "type": "tutuklama",
+      "description": "'Suç örgütü üyeliği' ve 'zimmet' iddialarıyla tutuklandı.",
+      "sources": [
+        { "url": "https://www.hurriyet.com.tr/gundem/istanbulda-yolsuzluk-ve-teror-sorusturmasi-beylikduzu-belediye-baskani-murat-calik-tutuklandi-42739088", "outlet": "Hürriyet", "date": "2025-03-23" }
+      ]
+    },
+    {
+      "date": "2025-11-25",
+      "type": "iddianame",
+      "description": "İBB iddianamesi İstanbul 40. Ağır Ceza Mahkemesince kabul edildi; Çalık da sanıklar arasında yer aldı.",
+      "sources": [
+        { "url": "https://tr.euronews.com/2025/11/25/ibb-iddianamesi-kabul-edildi-imamoglu-dahil-407-supheli-agir-ceza-mahkemesinde-yargilanaca", "outlet": "Euronews Türkçe", "date": "2025-11-25" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

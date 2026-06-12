@@ -1,0 +1,28 @@
+{
+  "id": "mucella-yapici",
+  "name": "Mücella Yapıcı",
+  "category": "stk",
+  "currentStatus": "beraat",
+  "case": "gezi-davasi",
+  "summary": "Mimar ve Taksim Dayanışması üyesi; Gezi davasında aldığı 18 yıllık ceza Yargıtay tarafından bozuldu ve yeniden yargılamada beraat etti.",
+  "events": [
+    {
+      "date": "2022-04-25",
+      "type": "mahkumiyet",
+      "description": "Gezi davasında 18 yıl hapis cezasına çarptırıldı ve tutuklandı.",
+      "sources": [
+        { "url": "https://t24.com.tr/haber/gezi-davasinda-karar-durusmasi,1030116", "outlet": "T24", "date": "2022-04-25" }
+      ]
+    },
+    {
+      "date": "2025-02-11",
+      "type": "beraat",
+      "description": "Yargıtay'ın cezayı bozmasının ardından görülen yeniden yargılamada Yapıcı, Ali Hakan Altınay ve Yiğit Ali Ekmekçi ile birlikte beraat etti.",
+      "sources": [
+        { "url": "https://medyascope.tv/2025/02/11/gezi-parki-davasi-mucella-yapici-hakan-altinay-ve-yigit-ekmekci-bir-suclamadan-beraat-etti/", "outlet": "Medyascope", "date": "2025-02-11" },
+        { "url": "https://www.diken.com.tr/gezi-davasinda-yeniden-yargilama-yapici-ekmekci-ve-altinay-beraat-etti/", "outlet": "Diken", "date": "2025-02-11" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

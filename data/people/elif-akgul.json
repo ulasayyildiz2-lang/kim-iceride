@@ -1,0 +1,35 @@
+{
+  "id": "elif-akgul",
+  "name": "Elif Akgül",
+  "category": "medya",
+  "currentStatus": "tutuklu",
+  "case": "hdk-sorusturmasi",
+  "summary": "Eski Bianet editörü gazeteci Elif Akgül, HDK soruşturması kapsamında Şubat 2025'te tutuklandı; 'örgüt üyeliği' iddiasıyla yargılanıyor.",
+  "events": [
+    {
+      "date": "2025-02-18",
+      "type": "gozalti",
+      "description": "Akgül, HDK soruşturması kapsamında eşzamanlı ev baskınıyla gözaltına alındı.",
+      "sources": [
+        { "url": "https://medyascope.tv/2025/02/21/hdk-sorusturmasi-tutuklanmasi-istenen-35-kisiden-30u-tutuklandi/", "outlet": "Medyascope", "date": "2025-02-21" }
+      ]
+    },
+    {
+      "date": "2025-02-21",
+      "type": "tutuklama",
+      "description": "Akgül, HDK soruşturması kapsamında 'örgüt üyeliği' iddiasıyla tutuklandı.",
+      "sources": [
+        { "url": "https://www.sozcu.com.tr/son-dakika-gazeteci-elif-akgul-tutuklandi-p141811", "outlet": "Sözcü", "date": "2025-02-21" }
+      ]
+    },
+    {
+      "date": "2025-09-30",
+      "type": "durusma",
+      "description": "Akgül hakkında 'örgüt üyeliği' iddiasıyla açılan davanın ilk duruşması İstanbul 25. Ağır Ceza Mahkemesinde görüldü; dava 20 Ocak 2026'ya ertelendi.",
+      "sources": [
+        { "url": "https://expressioninterrupted.com/tr/gazeteci-elif-akgul-hakim-karsisina-cikti/", "outlet": "Expression Interrupted (MLSA)", "date": "2025-09-30" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

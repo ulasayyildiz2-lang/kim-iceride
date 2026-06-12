@@ -1,0 +1,28 @@
+{
+  "id": "murat-sancak",
+  "name": "Murat Sancak",
+  "category": "spor",
+  "currentStatus": "adli-kontrol",
+  "case": "futbol-bahis-sorusturmasi",
+  "summary": "Adana Demirspor eski başkanı Murat Sancak, futbolda bahis ve şike soruşturması kapsamında tutuklandı; yaklaşık iki ay sonra ev hapsi şeklinde adli kontrol hükmüyle tahliye edildi.",
+  "events": [
+    {
+      "date": "2025-12-08",
+      "type": "tutuklama",
+      "description": "Adana Demirspor eski başkanı Murat Sancak, futbolda bahis ve şike soruşturması kapsamında tutuklandı.",
+      "sources": [
+        { "url": "https://www.cnnturk.com/turkiye/futbolda-bahis-ve-sike-sorusturmasi-adana-demirspor-eski-baskani-murat-sancak-hakkinda-tahliye-karari-2390507", "outlet": "CNN Türk", "date": "2026-01-29" }
+      ]
+    },
+    {
+      "date": "2026-01-29",
+      "type": "tahliye",
+      "description": "Murat Sancak, ev hapsi şeklinde adli kontrol hükmü uygulanarak tahliye edildi.",
+      "sources": [
+        { "url": "https://medyascope.tv/2026/01/29/eski-adana-demirspor-baskani-murat-sancak-tahliye-oldu/", "outlet": "Medyascope", "date": "2026-01-29" },
+        { "url": "https://www.sozcu.com.tr/adana-demirspor-eski-baskani-murat-sancak-tahliye-edildi-p288507", "outlet": "Sözcü", "date": "2026-01-29" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

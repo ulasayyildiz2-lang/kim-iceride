@@ -1,0 +1,29 @@
+{
+  "id": "beren-saat",
+  "name": "Beren Saat",
+  "category": "sanat",
+  "currentStatus": "adli-kontrol",
+  "case": "unlulere-uyusturucu-sorusturmasi",
+  "summary": "Oyuncu Beren Saat, ünlülere yönelik uyuşturucu soruşturması kapsamında gözaltına alındı; yurt dışı çıkış yasağı adli kontrol şartıyla serbest bırakıldı.",
+  "events": [
+    {
+      "date": "2026-06-11",
+      "type": "gozalti",
+      "description": "Oyuncu Beren Saat, ünlülere yönelik uyuşturucu soruşturması kapsamında gözaltına alındı.",
+      "sources": [
+        { "url": "https://www.hurriyet.com.tr/gundem/unlulere-yonelik-uyusturucu-sorusturmasinda-yeni-operasyon-beren-saat-kenan-dogulu-ve-enis-arikan-dahil-22-gozalti-43200978", "outlet": "Hürriyet", "date": "2026-06-11" },
+        { "url": "https://t24.com.tr/gundem/unlulere-uyusturucu-sorusturmasinda-yeni-dalga-22-gozalti,1328099", "outlet": "T24", "date": "2026-06-11" }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "type": "adli-kontrol",
+      "description": "Beren Saat, yurt dışı çıkış yasağı adli kontrol tedbiriyle serbest bırakıldı.",
+      "sources": [
+        { "url": "https://medyascope.tv/2026/06/12/unlulere-yonelik-uyusturucu-operasyonu-9-kisi-tutuklandi/", "outlet": "Medyascope", "date": "2026-06-12" },
+        { "url": "https://www.odatv.com/guncel/unlulere-uyusturucu-sorusturmasi-9-kisi-tutuklandi-beren-saat-kenan-dogulu-enis-arikan-ayse-hatun-onal-kerimcan-durmaz-icin-ne-karar-verildi-120150568", "outlet": "OdaTV", "date": "2026-06-12" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

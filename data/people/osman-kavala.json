@@ -1,0 +1,36 @@
+{
+  "id": "osman-kavala",
+  "name": "Osman Kavala",
+  "category": "stk",
+  "currentStatus": "hukumlu",
+  "case": "gezi-davasi",
+  "summary": "İş insanı ve sivil toplum aktivisti; Gezi davasında hükümeti ortadan kaldırmaya teşebbüs suçundan ağırlaştırılmış müebbet hapis cezasına çarptırıldı ve 2017'den bu yana cezaevinde bulunuyor.",
+  "events": [
+    {
+      "date": "2022-04-25",
+      "type": "mahkumiyet",
+      "description": "İstanbul 13. Ağır Ceza Mahkemesi, Gezi davasında Kavala'yı hükümeti ortadan kaldırmaya teşebbüs suçundan ağırlaştırılmış müebbet hapis cezasına çarptırdı.",
+      "sources": [
+        { "url": "https://www.cumhuriyet.com.tr/siyaset/gezi-parki-davasinda-karar-aciklandi-osman-kavala-hakkinda-muebbet-hapis-1929471", "outlet": "Cumhuriyet", "date": "2022-04-25" },
+        { "url": "https://yetkinreport.com/2022/04/25/gezi-davasi-sonuclandi-osman-kavalaya-muebbet-hapis/", "outlet": "Yetkin Report", "date": "2022-04-25" }
+      ]
+    },
+    {
+      "date": "2023-09-28",
+      "type": "mahkumiyet",
+      "description": "Yargıtay 3. Ceza Dairesi, Kavala'nın ağırlaştırılmış müebbet hapis cezasını onadı.",
+      "sources": [
+        { "url": "https://www.aa.com.tr/tr/gundem/gezi-parki-davasinda-kavala-ve-atalayin-da-arasinda-oldugu-5-sanigin-cezasi-onandi/3003418", "outlet": "Anadolu Ajansı", "date": "2023-09-28" }
+      ]
+    },
+    {
+      "date": "2026-03-25",
+      "type": "durusma",
+      "description": "AİHM Büyük Dairesi, Kavala dosyası kapsamında duruşma yaptı; hükümet temsilcilerinin de katıldığı oturumda taraflara ek görüş için 15 gün süre verildi.",
+      "sources": [
+        { "url": "https://www.cumhuriyet.com.tr/siyaset/aihm-buyuk-dairesi-osman-kavala-icin-toplaniyor-2489406", "outlet": "Cumhuriyet", "date": "2026-03-25" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

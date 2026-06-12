@@ -1,0 +1,36 @@
+{
+  "id": "manifest-grubu",
+  "name": "Manifest (müzik grubu)",
+  "category": "sanat",
+  "currentStatus": "hukumlu",
+  "case": "manifest-mustehcenlik-davasi",
+  "summary": "Müzik grubu Manifest'in üyeleri, KüçükÇiftlik Park konserindeki sahne performansı nedeniyle 'hayasızca hareketler/teşhircilik' iddiasıyla yargılandı; üyelere hükmün açıklanmasının geri bırakılması kararıyla hapis cezaları verildi.",
+  "events": [
+    {
+      "date": "2025-09-09",
+      "type": "gozalti",
+      "description": "Manifest grubu üyeleri, 6 Eylül'deki konserlerindeki performans nedeniyle 'hayasızca hareketler' ve 'teşhircilik' iddiasıyla gözaltına alındı.",
+      "sources": [
+        { "url": "https://tr.euronews.com/2025/09/09/manifest-grubu-uyelerine-adli-kontrol-ve-yurt-disi-yasagi", "outlet": "Euronews Türkçe", "date": "2025-09-09" }
+      ]
+    },
+    {
+      "date": "2025-09-09",
+      "type": "adli-kontrol",
+      "description": "Grup üyeleri, yurt dışı çıkış yasağı ve imza yükümlülüğü adli kontrol şartlarıyla serbest bırakıldı.",
+      "sources": [
+        { "url": "https://tr.euronews.com/2025/09/09/manifest-grubu-uyelerine-adli-kontrol-ve-yurt-disi-yasagi", "outlet": "Euronews Türkçe", "date": "2025-09-09" }
+      ]
+    },
+    {
+      "date": "2025-12-15",
+      "type": "mahkumiyet",
+      "description": "Mahkeme, Manifest üyeleri ve bir dansçıyı 'hayasızca hareket' suçundan 3 ay 22 gün hapis cezasına çarptırdı; hükmün açıklanması geri bırakıldı.",
+      "sources": [
+        { "url": "https://medyascope.tv/2025/12/15/manifest-grubu-uyelerine-mustehcenlikten-hapis-cezasi-verildi/", "outlet": "Medyascope", "date": "2025-12-15" },
+        { "url": "https://www.yenisafak.com/gundem/manifest-grubunun-cezasi-belli-oldu-hayasizca-hareketlerde-bulunma-sucundan-yargilaniyorlardi-4778635", "outlet": "Yeni Şafak", "date": "2025-12-15" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

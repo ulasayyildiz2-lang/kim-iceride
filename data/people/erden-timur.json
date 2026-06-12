@@ -1,0 +1,20 @@
+{
+  "id": "erden-timur",
+  "name": "Erden Timur",
+  "category": "spor",
+  "currentStatus": "tutuklu",
+  "case": "futbol-bahis-sorusturmasi",
+  "summary": "Galatasaray eski başkan vekili Erden Timur, futbolda bahis soruşturmasından ayrılan dosyada 'suçtan kaynaklanan malvarlığı değerlerini aklama' iddiasıyla tutuklandı.",
+  "events": [
+    {
+      "date": "2025-12-29",
+      "type": "tutuklama",
+      "description": "Galatasaray eski başkan vekili Erden Timur, 'suçtan kaynaklanan malvarlığı değerlerini aklama' iddiasıyla tutuklandı.",
+      "sources": [
+        { "url": "https://tr.euronews.com/2025/12/29/futbolda-bahis-sorusturmasi-dosyasi-ayrilan-erden-timur-tutuklandi", "outlet": "Euronews Türkçe", "date": "2025-12-29" },
+        { "url": "https://www.birgun.net/haber/futbolda-bahis-ve-kara-para-sorusturmasi-erden-timur-ve-18-kisiye-tutuklama-680067", "outlet": "BirGün", "date": "2025-12-29" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

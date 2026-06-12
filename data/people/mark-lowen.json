@@ -1,0 +1,28 @@
+{
+  "id": "mark-lowen",
+  "name": "Mark Lowen",
+  "category": "medya",
+  "currentStatus": "serbest",
+  "case": null,
+  "summary": "BBC muhabiri Mark Lowen, İstanbul'daki protestoları takip ederken 17 saat gözaltında tutulduktan sonra 'kamu düzeni için tehdit' gerekçesiyle Türkiye'den sınır dışı edildi.",
+  "events": [
+    {
+      "date": "2025-03-26",
+      "type": "gozalti",
+      "description": "Lowen, İstanbul'daki protestoları izlerken kaldığı otelden alınarak 17 saat gözaltında tutuldu.",
+      "sources": [
+        { "url": "https://bianet.org/haber/istanbul-daki-protestolari-takip-eden-bbc-muhabiri-mark-lowen-sinir-disi-edildi-305912", "outlet": "Bianet", "date": "2025-03-27" }
+      ]
+    },
+    {
+      "date": "2025-03-27",
+      "type": "serbest",
+      "description": "Lowen, 'kamu düzeni için tehdit oluşturduğu' gerekçesiyle Türkiye'den sınır dışı edildi.",
+      "sources": [
+        { "url": "https://tr.euronews.com/2025/03/27/bbcnin-turkiye-muhabiri-sinir-disi-edildi", "outlet": "Euronews Türkçe", "date": "2025-03-27" },
+        { "url": "https://medyascope.tv/2025/03/27/iktidar-karsiti-protestolari-takip-eden-bbc-muhabiri-mark-lowen-sinir-disi-edildi/", "outlet": "Medyascope", "date": "2025-03-27" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

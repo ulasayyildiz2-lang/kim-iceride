@@ -1,0 +1,35 @@
+{
+  "id": "ismail-saymaz",
+  "name": "İsmail Saymaz",
+  "category": "medya",
+  "currentStatus": "tutuksuz-yargilaniyor",
+  "case": null,
+  "summary": "Gazeteci İsmail Saymaz, 19 Mart 2025'te Gezi Parkı soruşturması kapsamında gözaltına alındı; ev hapsiyle serbest bırakıldı, Mayıs 2025'te adli kontrol tedbirleri yurt dışı yasağına dönüştürüldü.",
+  "events": [
+    {
+      "date": "2025-03-19",
+      "type": "gozalti",
+      "description": "Saymaz, Gezi Parkı olaylarına ilişkin yıllar önceki sosyal medya paylaşımları gerekçesiyle gözaltına alındı.",
+      "sources": [
+        { "url": "https://medyascope.tv/2025/03/22/ismail-saymazin-ifadesi-sadece-gazetecilik-yaptim/", "outlet": "Medyascope", "date": "2025-03-22" }
+      ]
+    },
+    {
+      "date": "2025-03-21",
+      "type": "adli-kontrol",
+      "description": "Mahkemeye sevk edilen Saymaz, ev hapsi ve adli kontrol şartıyla serbest bırakıldı.",
+      "sources": [
+        { "url": "https://www.patronlardunyasi.com/gezi-parki-sorusturmasi-kapsaminda-gozaltina-alinan-gazeteci-ismail-saymaz-icin-ev-hapsi-karari-verildi", "outlet": "Patronlar Dünyası", "date": "2025-03-21" }
+      ]
+    },
+    {
+      "date": "2025-05-01",
+      "type": "diger",
+      "description": "Saymaz'ın ev hapsi kaldırıldı; yurt dışı çıkış yasağı ve imza şartıyla serbest bırakıldı.",
+      "sources": [
+        { "url": "https://www.izgazete.net/gazeteci-ismail-saymazin-ev-hapsi-kaldirildi", "outlet": "İz Gazete", "date": "2025-05-01" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

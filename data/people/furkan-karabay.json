@@ -1,0 +1,43 @@
+{
+  "id": "furkan-karabay",
+  "name": "Furkan Karabay",
+  "category": "medya",
+  "currentStatus": "adli-kontrol",
+  "case": null,
+  "summary": "Gazeteci Furkan Karabay, haberleri ve sosyal medya paylaşımları nedeniyle 2025-2026'da birden çok kez gözaltına alındı; 15 Mayıs 2025'te tutuklanıp Aralık 2025'te tahliye edildi, Ocak 2026'da İBB soruşturması kapsamında ev hapsine alındı.",
+  "events": [
+    {
+      "date": "2025-05-15",
+      "type": "tutuklama",
+      "description": "Karabay, bir YouTube kanalındaki programları ve sosyal medya paylaşımları gerekçe gösterilerek 'Cumhurbaşkanına hakaret' ve 'terörle mücadelede görev almış kişileri hedef gösterme' suçlamalarıyla tutuklandı.",
+      "sources": [
+        { "url": "https://bianet.org/haber/gazeteci-furkan-karabay-tutuklandi-307450", "outlet": "Bianet", "date": "2025-05-15" }
+      ]
+    },
+    {
+      "date": "2025-12-02",
+      "type": "tahliye",
+      "description": "201 gündür tutuklu olan Karabay, hakkında verilen hapis cezasıyla birlikte tahliye edildi.",
+      "sources": [
+        { "url": "https://medyascope.tv/2025/12/02/gazeteci-furkan-karabay-tahliye-edildi-2/", "outlet": "Medyascope", "date": "2025-12-02" }
+      ]
+    },
+    {
+      "date": "2026-01-23",
+      "type": "gozalti",
+      "description": "Karabay, İBB soruşturmasına ilişkin haberleri gerekçesiyle 'halkı yanıltıcı bilgiyi yayma' iddiasıyla gece saatlerinde yeniden gözaltına alındı.",
+      "sources": [
+        { "url": "https://tr.euronews.com/2026/01/23/gazeteci-furkan-karabay-ibb-sorusturmasi-kapsaminda-gozaltina-alindi", "outlet": "Euronews Türkçe", "date": "2026-01-23" }
+      ]
+    },
+    {
+      "date": "2026-01-23",
+      "type": "adli-kontrol",
+      "description": "Tutuklama talebiyle mahkemeye sevk edilen Karabay hakkında ev hapsi (adli kontrol) kararı verildi.",
+      "sources": [
+        { "url": "https://tr.euronews.com/2026/01/23/gazeteci-furkan-karabay-ibb-sorusturmasi-kapsaminda-gozaltina-alindi", "outlet": "Euronews Türkçe", "date": "2026-01-23" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

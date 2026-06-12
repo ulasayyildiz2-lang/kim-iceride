@@ -1,0 +1,27 @@
+{
+  "id": "muhittin-bocek",
+  "name": "Muhittin Böcek",
+  "category": "siyaset",
+  "currentStatus": "tutuklu",
+  "case": "antalya-buyuksehir-sorusturmasi",
+  "summary": "CHP'li Antalya Büyükşehir Belediye Başkanı. Temmuz 2025'te rüşvet soruşturması kapsamında tutuklandı; Antalya 6. Ağır Ceza Mahkemesindeki davada tutuklu yargılanıyor.",
+  "events": [
+    {
+      "date": "2025-07-05",
+      "type": "tutuklama",
+      "description": "Antalya Cumhuriyet Başsavcılığınca yürütülen 'rüşvet' soruşturması kapsamında savcılık ifadesinin ardından tutuklandı.",
+      "sources": [
+        { "url": "https://www.aa.com.tr/tr/gundem/antalya-buyuksehir-belediye-baskani-muhittin-bocek-tutuklandi/3622412", "outlet": "Anadolu Ajansı", "date": "2025-07-06" }
+      ]
+    },
+    {
+      "date": "2026-05-08",
+      "type": "durusma",
+      "description": "Antalya 6. Ağır Ceza Mahkemesindeki davada mahkeme heyeti, Muhittin Böcek hakkında tutukluluğun devamına karar verdi.",
+      "sources": [
+        { "url": "https://www.ilkhaber-gazetesi.com/polis-asayis/antalya-buyuksehir-davasinda-ara-karar-muhittin-ve-gokhan-bocek-e-tutukluluga-devam-fazli-ates-e-tahliye-405887", "outlet": "İlkhaber Gazetesi", "date": "2026-05-08" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

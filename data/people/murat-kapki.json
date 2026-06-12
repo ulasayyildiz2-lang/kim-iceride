@@ -1,0 +1,44 @@
+{
+  "id": "murat-kapki",
+  "name": "Murat Kapki",
+  "category": "is",
+  "currentStatus": "tutuklu",
+  "case": "ibb-sorusturmasi",
+  "summary": "Reklam ve medya sektöründen iş insanı; İBB yolsuzluk soruşturması kapsamında tutuklandı, bir süre etkin pişmanlıktan yararlandı ancak 2026'da ifadelerini geri çekti ve tutuklu yargılanmaya devam ediyor.",
+  "events": [
+    {
+      "date": "2025-03-19",
+      "type": "gozalti",
+      "description": "İBB yolsuzluk soruşturması kapsamında gözaltına alındı.",
+      "sources": [
+        { "url": "https://www.cumhuriyet.com.tr/turkiye/murat-kapki-kimdir-is-insani-murat-kapki-neden-gozaltina-alindi-2310865", "outlet": "Cumhuriyet", "date": "2025-03-19" }
+      ]
+    },
+    {
+      "date": "2025-03-23",
+      "type": "tutuklama",
+      "description": "Suç örgütü kurma, rüşvet, ihaleye fesat karıştırma ve dolandırıcılık iddialarıyla tutuklandı.",
+      "sources": [
+        { "url": "https://www.cumhuriyet.com.tr/turkiye/murat-kapki-kimdir-is-insani-murat-kapki-neden-gozaltina-alindi-2310865", "outlet": "Cumhuriyet", "date": "2025-03-23" }
+      ]
+    },
+    {
+      "date": "2026-03-24",
+      "type": "durusma",
+      "description": "Mahkemeye sunduğu dilekçeyle daha önce etkin pişmanlık kapsamında verdiği ifadeleri geri çekti ve beyanlarını savcıların yönlendirmesiyle verdiğini öne sürdü.",
+      "sources": [
+        { "url": "https://medyascope.tv/2026/03/24/itirafci-murat-kapki-mahkemeye-sundugu-dilekcede-ne-dedi/", "outlet": "Medyascope", "date": "2026-03-24" },
+        { "url": "https://www.karar.com/guncel-haberler/ibb-davasinda-tutuklu-murat-kapkiden-mahkemeye-10-sayfalik-dilekce-2037799", "outlet": "Karar", "date": "2026-03-24" }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "type": "durusma",
+      "description": "İBB davasında tutuklu sanık olarak savunma yaptı; etkin pişmanlık ifadelerinin doğru olmadığını yineledi.",
+      "sources": [
+        { "url": "https://medyascope.tv/2026/05/14/ibb-davasi-savcilik-tarafindan-yonlendirildim-diyen-murat-kapki-savunma-yapti/", "outlet": "Medyascope", "date": "2026-05-14" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

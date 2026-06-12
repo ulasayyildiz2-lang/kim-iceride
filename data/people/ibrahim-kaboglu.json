@@ -1,0 +1,28 @@
+{
+  "id": "ibrahim-kaboglu",
+  "name": "İbrahim Kaboğlu",
+  "category": "hukuk",
+  "currentStatus": "beraat",
+  "case": "istanbul-barosu-davasi",
+  "summary": "Anayasa hukukçusu ve İstanbul Barosu Başkanı; baronun Suriye'de ölen gazetecilere ilişkin açıklaması nedeniyle yönetim kuruluyla birlikte yargılandı ve Ocak 2026'da beraat etti.",
+  "events": [
+    {
+      "date": "2025-01-14",
+      "type": "iddianame",
+      "description": "İstanbul Barosu'nun bir açıklaması gerekçe gösterilerek Kaboğlu ve yönetim kurulu üyeleri hakkında terör örgütü propagandası ve halkı yanıltıcı bilgiyi yayma suçlamalarıyla dava açıldı.",
+      "sources": [
+        { "url": "https://medyascope.tv/2025/01/14/istanbul-barosu-baskani-ibrahim-kaboglu-ve-yonetimine-dava-acildi/", "outlet": "Medyascope", "date": "2025-01-14" }
+      ]
+    },
+    {
+      "date": "2026-01-09",
+      "type": "beraat",
+      "description": "İstanbul 26. Ağır Ceza Mahkemesi, Kaboğlu ve yönetim kurulu üyelerinin tüm suçlamalardan oy birliğiyle beraatine karar verdi.",
+      "sources": [
+        { "url": "https://t24.com.tr/haber/istanbul-barosu-davasinda-karar-ibrahim-kaboglu-ve-yonetim-kurulu-uyeleri-beraat-etti,1289507", "outlet": "T24", "date": "2026-01-09" },
+        { "url": "https://medyascope.tv/2026/01/09/savunma-yargilandi-istanbul-barosu-davasinda-beraat-karari/", "outlet": "Medyascope", "date": "2026-01-09" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

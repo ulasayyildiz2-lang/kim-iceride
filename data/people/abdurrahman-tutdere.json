@@ -1,0 +1,35 @@
+{
+  "id": "abdurrahman-tutdere",
+  "name": "Abdurrahman Tutdere",
+  "category": "siyaset",
+  "currentStatus": "serbest",
+  "case": "belediyelere-yolsuzluk-sorusturmasi",
+  "summary": "CHP'li Adıyaman Belediye Başkanı. Temmuz 2025'te belediyelere yönelik yolsuzluk soruşturması kapsamında gözaltına alındı; ev hapsinin kaldırılmasının ardından görevine iade edildi.",
+  "events": [
+    {
+      "date": "2025-07-05",
+      "type": "gozalti",
+      "description": "İstanbul merkezli yürütülen soruşturma kapsamında 'icbar suretiyle irtikap' iddiasıyla gözaltına alındı.",
+      "sources": [
+        { "url": "https://www.hurriyet.com.tr/gundem/son-dakika-adiyaman-belediye-baskani-abdurrahman-tutdere-gozaltina-alindi-42866007", "outlet": "Hürriyet", "date": "2025-07-05" }
+      ]
+    },
+    {
+      "date": "2025-07-05",
+      "type": "adli-kontrol",
+      "description": "Mahkemece 'konutu terk etmeme' şeklinde adli kontrol (ev hapsi) kararıyla serbest bırakıldı.",
+      "sources": [
+        { "url": "https://www.hurriyet.com.tr/gundem/belediyelere-yolsuzluk-sorusturmasi-zeydan-karalar-ve-abdurrahman-tutderenin-aralarinda-oldugu-13-supheli-adliyede-42869198", "outlet": "Hürriyet", "date": "2025-07-05" }
+      ]
+    },
+    {
+      "date": "2025-08-05",
+      "type": "serbest",
+      "description": "İstanbul 6. Sulh Ceza Hakimliğinin ev hapsini kaldırması üzerine İçişleri Bakanlığınca görevine iade edildi.",
+      "sources": [
+        { "url": "https://tr.euronews.com/2025/08/05/adiyaman-belediye-baskani-tutdere-gorevine-iade-edildi", "outlet": "Euronews Türkçe", "date": "2025-08-05" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

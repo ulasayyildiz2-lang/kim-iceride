@@ -1,0 +1,28 @@
+{
+  "id": "pinar-selek",
+  "name": "Pınar Selek",
+  "category": "akademi",
+  "currentStatus": "tutuksuz-yargilaniyor",
+  "case": "pinar-selek-davasi",
+  "summary": "Sosyolog ve akademisyen; 1998 Mısır Çarşısı patlamasıyla ilgili dört kez beraat etmesine rağmen yeniden yargılanıyor, yurt dışında bulunuyor ve hakkında yakalama kararı bulunuyor.",
+  "events": [
+    {
+      "date": "2025-06-27",
+      "type": "durusma",
+      "description": "Mısır Çarşısı patlaması davasında altıncı kez yargılandığı duruşmada mahkeme, hakkındaki yakalama kararının devamına hükmetti.",
+      "sources": [
+        { "url": "https://www.evrensel.net/haber/522025/pinar-selek-misir-carsisi-patlamasiyla-ilgili-6nci-kez-yargilandi-tutuklanmasi-yonundeki-karara-devam", "outlet": "Evrensel", "date": "2025-06-27" },
+        { "url": "https://t24.com.tr/haber/mahkeme-pinar-selek-in-yurt-disindan-ifadesi-talebini-ve-tutuklama-yakalama-kararlarina-itirazlari-reddetti,1269183", "outlet": "T24", "date": "2025-06-27" }
+      ]
+    },
+    {
+      "date": "2026-04-02",
+      "type": "durusma",
+      "description": "Dava, mahkemenin yakalama kararını kaldırmaması ve yurt dışından ifade talebini reddetmesinin ardından ertelendi.",
+      "sources": [
+        { "url": "https://www.evrensel.net/haber/522025/pinar-selek-misir-carsisi-patlamasiyla-ilgili-6nci-kez-yargilandi-tutuklanmasi-yonundeki-karara-devam", "outlet": "Evrensel", "date": "2026-04-02" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

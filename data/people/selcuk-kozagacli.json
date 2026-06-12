@@ -1,0 +1,37 @@
+{
+  "id": "selcuk-kozagacli",
+  "name": "Selçuk Kozağaçlı",
+  "category": "hukuk",
+  "currentStatus": "hukumlu",
+  "case": "chd-davasi",
+  "summary": "Çağdaş Hukukçular Derneği (ÇHD) Onursal Başkanı; terör örgütü üyeliği suçlamasıyla mahkûm edildi, Nisan 2025'te tahliye edildikten 24 saat sonra yeniden cezaevine konuldu.",
+  "events": [
+    {
+      "date": "2025-04-16",
+      "type": "tahliye",
+      "description": "Yaklaşık sekiz yıllık tutukluluğun ardından koşullu olarak tahliye edildi.",
+      "sources": [
+        { "url": "https://tr.euronews.com/2025/04/17/selcuk-kozagacli-tahliyesi-uzerinden-24-saat-gecmeden-gozaltina-alindi", "outlet": "Euronews Türkçe", "date": "2025-04-17" },
+        { "url": "https://gazeteoksijen.com/turkiye/dun-tahliye-edilmisti-chd-onursal-baskani-selcuk-kozagacli-yeniden-cezaevinde-239823", "outlet": "Gazete Oksijen", "date": "2025-04-17" }
+      ]
+    },
+    {
+      "date": "2025-04-17",
+      "type": "tutuklama",
+      "description": "Savcılığın itirazı üzerine tahliyesinden 24 saat geçmeden yeniden gözaltına alınıp cezaevine gönderildi.",
+      "sources": [
+        { "url": "https://tr.euronews.com/2025/04/17/selcuk-kozagacli-tahliyesi-uzerinden-24-saat-gecmeden-gozaltina-alindi", "outlet": "Euronews Türkçe", "date": "2025-04-17" },
+        { "url": "https://www.dunya.com/gundem/son-dakika-dun-tahliye-edilen-avukat-selcuk-kozagacli-yeniden-tutuklandi-haberi-772568", "outlet": "Dünya", "date": "2025-04-17" }
+      ]
+    },
+    {
+      "date": "2025-12-30",
+      "type": "diger",
+      "description": "İdari gözlem kurulu, Kozağaçlı'nın 'toplumla bütünleşecek durumda' olmadığını belirterek tahliye talebini reddetti.",
+      "sources": [
+        { "url": "https://medyascope.tv/2025/12/31/selcuk-kozagacli-toplumla-butunlesecek-durumda-degil-denilerek-tahliye-edilmedi/", "outlet": "Medyascope", "date": "2025-12-31" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

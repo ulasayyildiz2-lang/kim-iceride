@@ -1,0 +1,35 @@
+{
+  "id": "baris-pehlivan",
+  "name": "Barış Pehlivan",
+  "category": "medya",
+  "currentStatus": "adli-kontrol",
+  "case": null,
+  "summary": "Gazeteci Barış Pehlivan, İmamoğlu'nun bilirkişiyle görüşmesinin yayımlanmasına ilişkin 'bilirkişi' soruşturmasında Ocak 2025'te gözaltına alındı; adli kontrolle serbest bırakıldı, bağlantılı davada ilk duruşmada beraat etti.",
+  "events": [
+    {
+      "date": "2025-01-28",
+      "type": "gozalti",
+      "description": "Pehlivan, İmamoğlu'nun basın toplantısı sonrası bilirkişiyle yapılan telefon görüşmesinin izinsiz yayımlanmasına ilişkin 'bilirkişi' soruşturması kapsamında gözaltına alındı.",
+      "sources": [
+        { "url": "https://medyascope.tv/2025/01/28/baris-pehlivan-kimdir-3-kez-tutuklanan-gazeteci-neden-gozaltinda/", "outlet": "Medyascope", "date": "2025-01-28" }
+      ]
+    },
+    {
+      "date": "2025-01-29",
+      "type": "adli-kontrol",
+      "description": "Mahkemeye sevk edilen Pehlivan, adli kontrol şartıyla serbest bırakıldı.",
+      "sources": [
+        { "url": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-3-gazeteci-icin-karar-verildi-2-adli-kontrol-1-2294325", "outlet": "Cumhuriyet", "date": "2025-01-29" }
+      ]
+    },
+    {
+      "date": "2025-05-01",
+      "type": "beraat",
+      "description": "'Yargı görevini etkileme' suçundan açılan davada Pehlivan ve diğer gazeteciler ilk duruşmada beraat etti.",
+      "sources": [
+        { "url": "https://www.izgazete.net/halk-tv-davasinda-son-durum-baris-pehlivana-kac-yil-hapis-isteniyor-baris-pehlivan-kimdir", "outlet": "İz Gazete", "date": "2025-05-01" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

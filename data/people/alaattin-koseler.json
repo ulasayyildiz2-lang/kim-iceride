@@ -1,0 +1,35 @@
+{
+  "id": "alaattin-koseler",
+  "name": "Alaattin Köseler",
+  "category": "siyaset",
+  "currentStatus": "tutuklu",
+  "case": null,
+  "summary": "CHP'li Beykoz Belediye Başkanı. Şubat 2025'te ihaleye fesat ve örgüt iddialarıyla gözaltına alındı; tahliyenin ardından kısa süre sonra yeniden tutuklandı ve tutuklu yargılanıyor.",
+  "events": [
+    {
+      "date": "2025-02-27",
+      "type": "gozalti",
+      "description": "Beykoz Cumhuriyet Başsavcılığınca yürütülen soruşturmada 'ihaleye fesat karıştırma' ve 'suç işlemek amacıyla örgüt kurma' iddialarıyla gözaltına alındı.",
+      "sources": [
+        { "url": "https://www.aa.com.tr/tr/gundem/beykoz-belediye-baskani-koseler-tutuklandi/3498950", "outlet": "Anadolu Ajansı", "date": "2025-03-03" }
+      ]
+    },
+    {
+      "date": "2025-03-03",
+      "type": "tutuklama",
+      "description": "Nöbetçi sulh ceza hakimliğince aralarında bulunduğu şüphelilerle birlikte tutuklandı.",
+      "sources": [
+        { "url": "https://www.aa.com.tr/tr/gundem/beykoz-belediye-baskani-koseler-tutuklandi/3498950", "outlet": "Anadolu Ajansı", "date": "2025-03-03" }
+      ]
+    },
+    {
+      "date": "2025-09-06",
+      "type": "tutuklama",
+      "description": "Tahliye edilmesinin ardından savcılık itirazının kabulüyle yaklaşık 30 saat sonra yeniden tutuklandı.",
+      "sources": [
+        { "url": "https://www.diken.com.tr/dun-tahliye-edilmisti-beykoz-belediye-baskani-alaattin-koseler-tutuklandi/", "outlet": "Diken", "date": "2025-09-06" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

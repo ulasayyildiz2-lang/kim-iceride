@@ -1,0 +1,35 @@
+{
+  "id": "bulent-kilic",
+  "name": "Bülent Kılıç",
+  "category": "medya",
+  "currentStatus": "tutuksuz-yargilaniyor",
+  "case": "sarachane-protesto-davasi",
+  "summary": "Foto muhabiri Bülent Kılıç, Saraçhane'deki protestoları takip ederken gözaltına alınıp tutuklandı, üç gün sonra tahliye edildi.",
+  "events": [
+    {
+      "date": "2025-03-24",
+      "type": "gozalti",
+      "description": "Kılıç, evine yapılan baskınla sabah saatlerinde gözaltına alındı.",
+      "sources": [
+        { "url": "https://www.cumhuriyet.com.tr/turkiye/bulent-kilic-kimdir-foto-muhabir-bulent-kilic-neden-tutuklandi-2312493", "outlet": "Cumhuriyet", "date": "2025-03-24" }
+      ]
+    },
+    {
+      "date": "2025-03-25",
+      "type": "tutuklama",
+      "description": "Kılıç, '2911 sayılı Toplantı ve Gösteri Yürüyüşleri Kanunu'na muhalefet' suçlamasıyla tutuklandı.",
+      "sources": [
+        { "url": "https://europeanjournalists.org/blog/2025/03/25/turkey-police-detained-at-least-11-journalists-in-dawn-raids-as-crackdown-escalates/", "outlet": "European Federation of Journalists", "date": "2025-03-25" }
+      ]
+    },
+    {
+      "date": "2025-03-27",
+      "type": "tahliye",
+      "description": "Avukatlarının itirazı sonucu Kılıç, diğer gazetecilerle birlikte tahliye edildi.",
+      "sources": [
+        { "url": "https://www.ekonomim.com/gundem/tutuklanan-yedi-gazeteciden-ucu-icin-tahliye-karari-verildi-haberi-808587", "outlet": "Ekonomim", "date": "2025-03-27" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

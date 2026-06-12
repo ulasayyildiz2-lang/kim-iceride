@@ -1,0 +1,28 @@
+{
+  "id": "timur-soykan",
+  "name": "Timur Soykan",
+  "category": "medya",
+  "currentStatus": "adli-kontrol",
+  "case": null,
+  "summary": "BirGün gazetesi muhabiri ve yazarı Timur Soykan, sosyal medya paylaşımları nedeniyle 5 Temmuz 2025'te gözaltına alındı; ertesi gün adli kontrol şartıyla serbest bırakıldı.",
+  "events": [
+    {
+      "date": "2025-07-05",
+      "type": "gozalti",
+      "description": "BirGün muhabiri Soykan, belediye başkanlarına yönelik operasyonları eleştiren sosyal medya paylaşımları nedeniyle 'halkı yanıltıcı bilgiyi yayma' iddiasıyla gözaltına alındı.",
+      "sources": [
+        { "url": "https://tr.euronews.com/2025/07/05/gazeteci-timur-soykan-gozaltina-alindi", "outlet": "Euronews Türkçe", "date": "2025-07-05" },
+        { "url": "https://fom.coe.int/en/alerte/detail/107642871", "outlet": "Council of Europe Safety of Journalists Platform", "date": "2025-07-05" }
+      ]
+    },
+    {
+      "date": "2025-07-06",
+      "type": "adli-kontrol",
+      "description": "Tutuklama talebiyle mahkemeye sevk edilen Soykan, yurt dışı yasağı ve imza şartını içeren adli kontrolle serbest bırakıldı.",
+      "sources": [
+        { "url": "https://medyascope.tv/2025/07/06/timur-soykan-serbest-birakildi/", "outlet": "Medyascope", "date": "2025-07-06" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

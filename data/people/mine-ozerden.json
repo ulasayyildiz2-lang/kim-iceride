@@ -1,0 +1,28 @@
+{
+  "id": "mine-ozerden",
+  "name": "Mine Özerden",
+  "category": "stk",
+  "currentStatus": "hukumlu",
+  "case": "gezi-davasi",
+  "summary": "Sivil toplum çalışanı; Gezi davasında 18 yıl hapis cezasına çarptırıldı ve cezası Yargıtay tarafından onanarak cezaevinde tutuluyor.",
+  "events": [
+    {
+      "date": "2022-04-25",
+      "type": "mahkumiyet",
+      "description": "Gezi davasında 18 yıl hapis cezasına çarptırıldı ve tutuklandı.",
+      "sources": [
+        { "url": "https://t24.com.tr/haber/gezi-davasinda-karar-durusmasi,1030116", "outlet": "T24", "date": "2022-04-25" },
+        { "url": "https://www.hurriyet.com.tr/gundem/son-dakika-osman-kavalanin-cezasi-belli-oldu-42050953", "outlet": "Hürriyet", "date": "2022-04-25" }
+      ]
+    },
+    {
+      "date": "2023-09-28",
+      "type": "mahkumiyet",
+      "description": "Yargıtay 3. Ceza Dairesi, Özerden'in 18 yıllık hapis cezasını onadı.",
+      "sources": [
+        { "url": "https://www.aa.com.tr/tr/gundem/gezi-parki-davasinda-kavala-ve-atalayin-da-arasinda-oldugu-5-sanigin-cezasi-onandi/3003418", "outlet": "Anadolu Ajansı", "date": "2023-09-28" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

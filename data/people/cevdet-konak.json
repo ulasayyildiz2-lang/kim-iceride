@@ -1,0 +1,28 @@
+{
+  "id": "cevdet-konak",
+  "name": "Cevdet Konak",
+  "category": "siyaset",
+  "currentStatus": "tutuksuz-yargilaniyor",
+  "case": "kayyum-belediyeler",
+  "summary": "DEM Parti'li Tunceli (Dersim) Belediye Başkanı; 'silahlı terör örgütü üyeliği' suçundan 6 yıl 3 ay hapis cezası aldı, görevden uzaklaştırıldı ve yerine kayyum atandı.",
+  "events": [
+    {
+      "date": "2024-11-22",
+      "type": "diger",
+      "description": "İçişleri Bakanlığı, 'silahlı terör örgütü üyeliği' suçundan 6 yıl 3 ay hapis cezası alması ve devam eden soruşturma gerekçesiyle Konak'ı görevden uzaklaştırdı; yerine Tunceli Valisi kayyum olarak görevlendirildi.",
+      "sources": [
+        { "url": "https://tr.euronews.com/2024/11/22/tunceli-ve-ovacik-belediyelerine-kayyum-atandi", "outlet": "Euronews Türkçe", "date": "2024-11-22" },
+        { "url": "https://medyascope.tv/2024/11/23/ovacik-ve-tunceli-belediyelerine-kayyum-atandi/", "outlet": "Medyascope", "date": "2024-11-23" }
+      ]
+    },
+    {
+      "date": "2025-05-13",
+      "type": "durusma",
+      "description": "Konak'ın 'örgüt propagandası yapmak' iddiasıyla yargılandığı davanın bir duruşması Tunceli 2. Ağır Ceza Mahkemesinde görüldü ve dava ileri tarihe ertelendi.",
+      "sources": [
+        { "url": "https://mlsaturkey.com/tr/yerine-kayyum-atanan-dersim-belediyesi-es-baskani-cevdet-konakin-davasi-goruldu", "outlet": "MLSA", "date": "2025-05-13" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

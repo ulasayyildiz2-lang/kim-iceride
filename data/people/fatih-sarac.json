@@ -1,0 +1,28 @@
+{
+  "id": "fatih-sarac",
+  "name": "Mehmet Fatih Saraç",
+  "category": "spor",
+  "currentStatus": "serbest",
+  "case": "futbol-bahis-sorusturmasi",
+  "summary": "Kasımpaşa eski başkanı Mehmet Fatih Saraç, hakemlerin bahis hesaplarına ilişkin soruşturma kapsamında gözaltına alındı; ifadesinin ardından serbest bırakıldı.",
+  "events": [
+    {
+      "date": "2025-11-07",
+      "type": "gozalti",
+      "description": "Kasımpaşa eski başkanı Mehmet Fatih Saraç, hakemlerin bahis hesaplarına ilişkin soruşturma kapsamında gözaltına alındı.",
+      "sources": [
+        { "url": "https://t24.com.tr/haber/bahis-sorusturmasi-kapsaminda-21-hakem-icin-gozalti-karari,1274188", "outlet": "T24", "date": "2025-11-07" },
+        { "url": "https://www.sabah.com.tr/gundem/2025/11/07/son-dakika-futbolda-bahis-sorusturmasinda-yeni-gelisme-18-gozalti-var", "outlet": "Sabah", "date": "2025-11-07" }
+      ]
+    },
+    {
+      "date": "2025-11-07",
+      "type": "serbest",
+      "description": "Mehmet Fatih Saraç, emniyetteki ifade işlemlerinin ardından serbest bırakıldı.",
+      "sources": [
+        { "url": "https://www.diken.com.tr/bahis-sorusturmasi-fatih-sarac-serbest/", "outlet": "Diken", "date": "2025-11-07" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

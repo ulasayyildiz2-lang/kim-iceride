@@ -1,0 +1,20 @@
+{
+  "id": "turabi-camkiran",
+  "name": "Turabi Çamkıran",
+  "category": "sanat",
+  "currentStatus": "serbest",
+  "case": null,
+  "summary": "Survivor yarışmasıyla tanınan Turabi Çamkıran hakkında, 'Wine Me, Dine Me' şarkısının içeriği nedeniyle 'müstehcenlik' suçlamasıyla soruşturma başlatıldı ve yakalama kararı çıkarıldı.",
+  "events": [
+    {
+      "date": "2025-02-05",
+      "type": "diger",
+      "description": "Ankara Cumhuriyet Başsavcılığı, Turabi Çamkıran'ın 'Wine Me, Dine Me' şarkısının içeriği nedeniyle 'müstehcenlik' iddiasıyla soruşturma başlattı ve mahkeme hakkında yakalama kararı çıkardı.",
+      "sources": [
+        { "url": "https://www.aa.com.tr/tr/gundem/turabi-camkiran-hakkinda-mustehcenlik-sucundan-sorusturma-baslatildi/3472836", "outlet": "Anadolu Ajansı", "date": "2025-02-05" },
+        { "url": "https://www.cumhuriyet.com.tr/turkiye/sarkisi-tartisma-yaratmisti-turabi-camkiran-hakkinda-sorusturma-2296639", "outlet": "Cumhuriyet", "date": "2025-02-05" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

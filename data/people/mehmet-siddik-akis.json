@@ -1,0 +1,37 @@
+{
+  "id": "mehmet-siddik-akis",
+  "name": "Mehmet Sıddık Akış",
+  "category": "siyaset",
+  "currentStatus": "tutuklu",
+  "case": "kayyum-belediyeler",
+  "summary": "DEM Parti'li Hakkari Belediye Eş Başkanı; 'silahlı terör örgütü yöneticiliği' iddiasıyla tutuklandı, yerine kayyum atandı ve hakkında 19 yıl 6 ay hapis cezası verildi.",
+  "events": [
+    {
+      "date": "2024-06-03",
+      "type": "gozalti",
+      "description": "Hakkari Belediye Eş Başkanı Mehmet Sıddık Akış, 'silahlı terör örgütü yöneticiliği' iddiasıyla gözaltına alındı ve yerine kayyum olarak Hakkari Valisi görevlendirildi.",
+      "sources": [
+        { "url": "https://medyascope.tv/2024/06/05/yerine-kayyum-atanan-hakkari-belediye-baskani-tutuklandi/", "outlet": "Medyascope", "date": "2024-06-05" }
+      ]
+    },
+    {
+      "date": "2024-06-05",
+      "type": "mahkumiyet",
+      "description": "Akış, 'silahlı terör örgütü yöneticiliği' suçundan 19 yıl 6 ay hapis cezasına çarptırıldı ve cezaevine gönderildi.",
+      "sources": [
+        { "url": "https://bianet.org/haber/hakkari-belediye-baskani-mehmet-siddik-akisa-19-yil-6-ay-hapis-cezasi-296176", "outlet": "Bianet", "date": "2024-06-05" },
+        { "url": "https://www.aa.com.tr/tr/gundem/hakkari-belediye-baskanligi-gorevinden-uzaklastirilan-akisa-19-yil-6-ay-hapis-cezasi-verildi/3241021", "outlet": "Anadolu Ajansı", "date": "2024-06-05" }
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "type": "mahkumiyet",
+      "description": "İstinafın bozması üzerine yeniden yapılan yargılamada Hakkari 1. Ağır Ceza Mahkemesi, Akış hakkındaki 19 yıl 6 ay hapis cezasını yeniden verdi; Akış duruşmaya cezaevinden SEGBİS ile katıldı.",
+      "sources": [
+        { "url": "https://www.rudaw.net/turkish/middleeast/turkey/2904202617", "outlet": "Rudaw", "date": "2026-04-29" },
+        { "url": "https://medyascope.tv/2026/04/30/yerine-kayyum-atanan-hakkari-belediye-esbaskani-siddik-akisa-hapis-cezasi-verildi/", "outlet": "Medyascope", "date": "2026-04-30" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

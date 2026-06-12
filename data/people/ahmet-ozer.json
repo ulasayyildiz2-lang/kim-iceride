@@ -1,0 +1,43 @@
+{
+  "id": "ahmet-ozer",
+  "name": "Ahmet Özer",
+  "category": "siyaset",
+  "currentStatus": "tahliye",
+  "case": "ibb-sorusturmasi",
+  "summary": "CHP'li eski Esenyurt Belediye Başkanı. 'Kent uzlaşısı' kapsamındaki terör örgütü üyeliği iddiasıyla yargılandı; Ocak 2026'da hapis cezası aldı, dava sürecinde tahliye edildi.",
+  "events": [
+    {
+      "date": "2024-10-30",
+      "type": "gozalti",
+      "description": "İstanbul Cumhuriyet Başsavcılığınca yürütülen soruşturma kapsamında PKK üyeleriyle irtibat iddiasıyla gözaltına alındı.",
+      "sources": [
+        { "url": "https://www.aa.com.tr/tr/gundem/esenyurt-belediye-baskani-ahmet-ozer-pkk-kck-silahli-teror-orgutu-uyesi-olmak-sucundan-tutuklandi/3379919", "outlet": "Anadolu Ajansı", "date": "2024-10-31" }
+      ]
+    },
+    {
+      "date": "2024-10-31",
+      "type": "tutuklama",
+      "description": "Mahkemece silahlı terör örgütü üyeliği iddiasıyla tutuklandı; belediyeye kayyum olarak İstanbul Vali Yardımcısı görevlendirildi.",
+      "sources": [
+        { "url": "https://www.aa.com.tr/tr/gundem/esenyurt-belediye-baskani-ahmet-ozer-pkk-kck-silahli-teror-orgutu-uyesi-olmak-sucundan-tutuklandi/3379919", "outlet": "Anadolu Ajansı", "date": "2024-10-31" }
+      ]
+    },
+    {
+      "date": "2025-11-11",
+      "type": "tahliye",
+      "description": "Mahkeme kararıyla adli kontrol tedbirleriyle tahliye edildi.",
+      "sources": [
+        { "url": "https://www.sozcu.com.tr/amp/ahmet-ozer-e-tahliye-karari-p258005", "outlet": "Sözcü", "date": "2025-11-11" }
+      ]
+    },
+    {
+      "date": "2026-01-23",
+      "type": "mahkumiyet",
+      "description": "İstanbul 14. Ağır Ceza Mahkemesi 'kent uzlaşısı' davasında terör örgütü üyeliği iddiasıyla 6 yıl 3 ay hapis cezasına hükmetti.",
+      "sources": [
+        { "url": "https://tr.euronews.com/2026/01/23/ahmet-ozere-kent-uzlasisi-davasinda-hapis-cezasi", "outlet": "Euronews Türkçe", "date": "2026-01-23" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "sofya-alagas",
+  "name": "Sofya Alağaş",
+  "category": "siyaset",
+  "currentStatus": "tutuksuz-yargilaniyor",
+  "case": "kayyum-belediyeler",
+  "summary": "DEM Parti'li Siirt Belediye Eş Başkanı; 'silahlı terör örgütü üyeliği' iddiasıyla 6 yıl 3 ay hapis cezası aldı, yerine kayyum atandı ve cezası istinaf aşamasında.",
+  "events": [
+    {
+      "date": "2025-01-28",
+      "type": "mahkumiyet",
+      "description": "Diyarbakır 5. Ağır Ceza Mahkemesi, gazetecilik dönemine ilişkin 'silahlı terör örgütü üyeliği' iddiasıyla Alağaş'a 6 yıl 3 ay hapis cezası verdi.",
+      "sources": [
+        { "url": "https://bianet.org/haber/siirt-belediye-es-baskani-alagas-a-6-yil-3-ay-hapis-cezasi-304027", "outlet": "Bianet", "date": "2025-01-28" },
+        { "url": "https://tr.euronews.com/2025/01/28/siirt-belediye-es-baskani-sofya-alagasa-6-yil-3-ay-hapis-cezasi", "outlet": "Euronews Türkçe", "date": "2025-01-28" }
+      ]
+    },
+    {
+      "date": "2025-01-29",
+      "type": "diger",
+      "description": "İçişleri Bakanlığı, aldığı hapis cezası gerekçesiyle Alağaş'ı görevden uzaklaştırdı ve Siirt Belediyesine vali kayyum olarak görevlendirildi.",
+      "sources": [
+        { "url": "https://www.aa.com.tr/tr/gundem/siirt-belediye-baskani-sofya-alagas-gorevden-uzaklastirildi-/3465012", "outlet": "Anadolu Ajansı", "date": "2025-01-29" },
+        { "url": "https://tr.euronews.com/2025/01/29/siirt-belediyesine-kayyum-atandi", "outlet": "Euronews Türkçe", "date": "2025-01-29" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

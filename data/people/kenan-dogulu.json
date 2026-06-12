@@ -1,0 +1,29 @@
+{
+  "id": "kenan-dogulu",
+  "name": "Kenan Doğulu",
+  "category": "sanat",
+  "currentStatus": "adli-kontrol",
+  "case": "unlulere-uyusturucu-sorusturmasi",
+  "summary": "Şarkıcı Kenan Doğulu, ünlülere yönelik uyuşturucu soruşturması kapsamında gözaltına alındı; yurt dışı çıkış yasağı adli kontrol şartıyla serbest bırakıldı.",
+  "events": [
+    {
+      "date": "2026-06-11",
+      "type": "gozalti",
+      "description": "Şarkıcı Kenan Doğulu, ünlülere yönelik uyuşturucu soruşturması kapsamında gözaltına alındı.",
+      "sources": [
+        { "url": "https://www.hurriyet.com.tr/gundem/unlulere-yonelik-uyusturucu-sorusturmasinda-yeni-operasyon-beren-saat-kenan-dogulu-ve-enis-arikan-dahil-22-gozalti-43200978", "outlet": "Hürriyet", "date": "2026-06-11" },
+        { "url": "https://www.milliyet.com.tr/gundem/son-dakika-uyusturucu-sorusturmasinda-yeni-dalga-enis-arikan-dahil-22-kisi-gozaltina-alindi-7603327", "outlet": "Milliyet", "date": "2026-06-11" }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "type": "adli-kontrol",
+      "description": "Kenan Doğulu, yurt dışı çıkış yasağı adli kontrol tedbiriyle serbest bırakıldı.",
+      "sources": [
+        { "url": "https://medyascope.tv/2026/06/12/unlulere-yonelik-uyusturucu-operasyonu-9-kisi-tutuklandi/", "outlet": "Medyascope", "date": "2026-06-12" },
+        { "url": "https://www.ntv.com.tr/turkiye/unlulere-uyusturucu-sorusturmasinda-yeni-dalga-beren-saat-enis-arikan-ve-kenan-dogulu-gozaltinda-1728091", "outlet": "NTV", "date": "2026-06-12" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

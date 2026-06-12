@@ -1,0 +1,36 @@
+{
+  "id": "tayfun-kahraman",
+  "name": "Tayfun Kahraman",
+  "category": "stk",
+  "currentStatus": "hukumlu",
+  "case": "gezi-davasi",
+  "summary": "Şehir plancısı; Gezi davasında 18 yıl hapis cezasına çarptırıldı ve Anayasa Mahkemesi'nin lehine verdiği hak ihlali kararına rağmen cezaevinde tutuluyor.",
+  "events": [
+    {
+      "date": "2022-04-25",
+      "type": "mahkumiyet",
+      "description": "Gezi davasında 18 yıl hapis cezasına çarptırıldı ve tutuklandı.",
+      "sources": [
+        { "url": "https://t24.com.tr/haber/gezi-davasinda-karar-durusmasi,1030116", "outlet": "T24", "date": "2022-04-25" },
+        { "url": "https://www.hurriyet.com.tr/gundem/son-dakika-osman-kavalanin-cezasi-belli-oldu-42050953", "outlet": "Hürriyet", "date": "2022-04-25" }
+      ]
+    },
+    {
+      "date": "2023-09-28",
+      "type": "mahkumiyet",
+      "description": "Yargıtay 3. Ceza Dairesi, Kahraman'ın 18 yıllık hapis cezasını onadı.",
+      "sources": [
+        { "url": "https://www.aa.com.tr/tr/gundem/gezi-parki-davasinda-kavala-ve-atalayin-da-arasinda-oldugu-5-sanigin-cezasi-onandi/3003418", "outlet": "Anadolu Ajansı", "date": "2023-09-28" }
+      ]
+    },
+    {
+      "date": "2025-07-31",
+      "type": "diger",
+      "description": "Anayasa Mahkemesi Genel Kurulu, Kahraman'ın bireysel başvurusunda adil yargılanma hakkının ihlal edildiğine ve yeniden yargılama yapılması gerektiğine hükmetti; karar uygulanmadı.",
+      "sources": [
+        { "url": "https://medyascope.tv/2026/05/14/tayfun-kahraman-kimdir/", "outlet": "Medyascope", "date": "2026-05-14" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

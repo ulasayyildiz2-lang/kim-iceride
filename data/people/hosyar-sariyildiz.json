@@ -1,0 +1,37 @@
+{
+  "id": "hosyar-sariyildiz",
+  "name": "Hoşyar Sarıyıldız",
+  "category": "siyaset",
+  "currentStatus": "adli-kontrol",
+  "case": "kayyum-belediyeler",
+  "summary": "DEM Parti'li Mersin Akdeniz Belediyesi Eş Başkanı; terör soruşturması kapsamında tutuklandı ve yerine kayyum atandı, yaklaşık 10 ay sonra adli kontrol tedbiriyle tahliye edildi.",
+  "events": [
+    {
+      "date": "2025-01-10",
+      "type": "gozalti",
+      "description": "Mersin Cumhuriyet Başsavcılığının yürüttüğü terör soruşturması kapsamında Akdeniz Belediyesi Eş Başkanları Sarıyıldız ve Nuriye Arslan ile meclis üyeleri gözaltına alındı.",
+      "sources": [
+        { "url": "https://www.voaturkce.com/a/mersin-akdeniz-belediyesi-es-baskanlari-tutuklandi--yerlerine-kayyum-atandi/7934569.html", "outlet": "VOA Türkçe", "date": "2025-01-13" }
+      ]
+    },
+    {
+      "date": "2025-01-13",
+      "type": "tutuklama",
+      "description": "Sarıyıldız ve Arslan, 'silahlı terör örgütü üyeliği', 'örgüt propagandası' ve 'terörizmin finansmanı' iddialarıyla tutuklandı; iki eş başkanın yerine Akdeniz Kaymakamı kayyum olarak atandı.",
+      "sources": [
+        { "url": "https://www.odatv.com/guncel/mersin-akdeniz-belediyesi-baskanlari-nuriye-arslan-ve-hosyar-sariyildiz-tutuklandi-zeyit-sener-kayyum-atandi-120081078", "outlet": "Odatv", "date": "2025-01-13" },
+        { "url": "https://gazeteoksijen.com/turkiye/dem-partili-akdeniz-belediye-baskani-sariyildiz-yardimcisi-ve-3-meclis-uyesi-tutuklandi-232595", "outlet": "Gazete Oksijen", "date": "2025-01-13" }
+      ]
+    },
+    {
+      "date": "2025-11-01",
+      "type": "tahliye",
+      "description": "Mersin 2. Ağır Ceza Mahkemesi, davanın ilk duruşmasında Sarıyıldız, Arslan ve meclis üyesini yurt dışı yasağını da içeren adli kontrol tedbiriyle tahliye etti.",
+      "sources": [
+        { "url": "https://www.hurriyet.com.tr/gundem/tutuklu-eski-akdeniz-belediye-baskani-ve-meclis-uyelerine-tahliye-43004058", "outlet": "Hürriyet", "date": "2025-11-01" },
+        { "url": "https://gazeteoksijen.com/turkiye/akdeniz-belediyesi-es-baskanlarina-10-ay-sonra-tahliye-255608", "outlet": "Gazete Oksijen", "date": "2025-11-01" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

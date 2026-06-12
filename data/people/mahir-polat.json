@@ -1,0 +1,35 @@
+{
+  "id": "mahir-polat",
+  "name": "Mahir Polat",
+  "category": "siyaset",
+  "currentStatus": "serbest",
+  "case": "ibb-sorusturmasi",
+  "summary": "İBB Genel Sekreter Yardımcısı. Mart 2025'te 'kent uzlaşısı' soruşturmasında tutuklandı; ev hapsiyle tahliye edildikten sonra 2026'da görevine geri döndü.",
+  "events": [
+    {
+      "date": "2025-03-23",
+      "type": "tutuklama",
+      "description": "İBB'ye yönelik soruşturma kapsamında tutuklandı.",
+      "sources": [
+        { "url": "https://haber.sol.org.tr/haber/ibb-sorusturmasinda-48-tutuklama-murat-ongun-mahir-polat-bugra-gokce-emrah-sahan-murat-calik", "outlet": "soL haber", "date": "2025-03-23" }
+      ]
+    },
+    {
+      "date": "2025-04-09",
+      "type": "tahliye",
+      "description": "Sağlık durumunun değerlendirilmesinin ardından 'ev hapsi' şartıyla tahliye edildi.",
+      "sources": [
+        { "url": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-kent-uzlasisi-davasinda-tutuklu-kalmisti-mahir-polat-ibb-genel-sekreter-yardimciligi-gorevine-geri-dondu-2497460", "outlet": "Cumhuriyet", "date": "2026-04-22" }
+      ]
+    },
+    {
+      "date": "2026-04-22",
+      "type": "serbest",
+      "description": "Ev hapsi 17 Mart 2026'da kaldırıldıktan sonra İBB Genel Sekreter Yardımcılığı görevine geri döndü.",
+      "sources": [
+        { "url": "https://t24.com.tr/gundem/mahir-polat-ibb-genel-sekreter-yardimciligi-gorevine-dondu,1316100", "outlet": "T24", "date": "2026-04-22" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

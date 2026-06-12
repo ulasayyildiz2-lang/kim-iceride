@@ -1,0 +1,28 @@
+{
+  "id": "figen-yuksekdag",
+  "name": "Figen Yüksekdağ",
+  "category": "siyaset",
+  "currentStatus": "tutuklu",
+  "case": "kobani-davasi",
+  "summary": "HDP eski Eş Genel Başkanı; Kobani davası kapsamında 30 yıl 3 ay hapis cezası aldı ve halen tutuklu olarak Kandıra Cezaevi'nde bulunuyor.",
+  "events": [
+    {
+      "date": "2024-05-16",
+      "type": "mahkumiyet",
+      "description": "Ankara 22. Ağır Ceza Mahkemesi, Kobani davasında Yüksekdağ'ı toplam 30 yıl 3 ay hapis cezasına çarptırdı ve tutukluluğunun devamına karar verdi.",
+      "sources": [
+        { "url": "https://tr.euronews.com/2024/05/16/demirtas-figen-yuksekdag-ve-ahmet-turkun-yargilandigi-kobani-davasinda-kararlar-aciklandi", "outlet": "Euronews Türkçe", "date": "2024-05-16" },
+        { "url": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-kobani-davasinda-karar-aciklaniyor-2207369", "outlet": "Cumhuriyet", "date": "2024-05-16" }
+      ]
+    },
+    {
+      "date": "2025-07-19",
+      "type": "diger",
+      "description": "AİHM'in Temmuz 2025 kararının ardından yapılan tahliye başvurusu, mahkemece 'AİHM kararının kesinleşmediği' gerekçesiyle reddedildi.",
+      "sources": [
+        { "url": "https://t24.com.tr/haber/demirtas-ve-kobani-davasi-saniklarinin-tahliye-talebini-mahkeme-aihm-kararina-ragmen-geri-cevirdi-aihm-karari-kesinlesmedi,1250617", "outlet": "T24", "date": "2025-07-19" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}

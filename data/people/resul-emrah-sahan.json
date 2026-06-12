@@ -1,0 +1,27 @@
+{
+  "id": "resul-emrah-sahan",
+  "name": "Resul Emrah Şahan",
+  "category": "siyaset",
+  "currentStatus": "tutuklu",
+  "case": "ibb-sorusturmasi",
+  "summary": "CHP'li Şişli Belediye Başkanı. Mart 2025'te İBB soruşturması kapsamında tutuklandı; 'kent uzlaşısı' dosyasından Şubat 2026'da tahliye kararı verilse de İBB davasından tutukluluğu sürüyor.",
+  "events": [
+    {
+      "date": "2025-03-23",
+      "type": "tutuklama",
+      "description": "İBB'ye yönelik soruşturma kapsamında tutuklandı; belediyeye kayyum olarak Şişli Kaymakamı görevlendirildi.",
+      "sources": [
+        { "url": "https://haber.sol.org.tr/haber/ibb-sorusturmasinda-48-tutuklama-murat-ongun-mahir-polat-bugra-gokce-emrah-sahan-murat-calik", "outlet": "soL haber", "date": "2025-03-23" }
+      ]
+    },
+    {
+      "date": "2026-02-11",
+      "type": "diger",
+      "description": "'Kent uzlaşısı' dosyasında adli kontrolle tahliyesine karar verildi; ancak İBB davasından tutukluluğu nedeniyle cezaevinde kalmaya devam etti.",
+      "sources": [
+        { "url": "https://gazeteoksijen.com/turkiye/sisli-belediye-baskani-resul-emrah-sahana-kent-uzlasisindan-tahliye-265305", "outlet": "Gazete Oksijen", "date": "2026-02-11" }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-12"
+}
