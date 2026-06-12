@@ -32,6 +32,9 @@ jobs:
       - name: Veriyi doğrula (bozuk veri PR'a giremez)
         run: npm run validate
 
+      # Yalnızca data/ altında gerçek bir değişiklik varsa PR açılır.
+      # Boş günlerde (öneri yok) veri değişmez → PR açılmaz, gereksiz gürültü olmaz.
+      # pr-body.md gitignore'da olsa da runner'ın diskinde durduğu için body-path okunur.
       - name: PR aç
         uses: peter-evans/create-pull-request@v7
         with:
@@ -39,7 +42,5 @@ jobs:
           title: "Günlük tarama: ${{ github.run_started_at }}"
           body-path: drafts/pr-body.md
           commit-message: "Günlük tarama güncellemeleri"
-          add-paths: |
-            data/**
-            drafts/**
+          add-paths: data/**
           delete-branch: true

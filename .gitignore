@@ -22,3 +22,6 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+
+# tarama scriptinin ürettiği günlük taslaklar (yerel/CI log; veri değil)
+drafts/
